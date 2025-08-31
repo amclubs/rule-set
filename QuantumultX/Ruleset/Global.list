@@ -1,5 +1,9 @@
 # 规则名称: Global
+<<<<<<< HEAD
 # 规则统计: 7312
+=======
+# 规则统计: 7305
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 
 HOST,cloud.oracle.com,Global
 HOST,steambroadcast.akamaized.net,Global
@@ -1357,7 +1361,10 @@ HOST-SUFFIX,costco.com,Global
 HOST-SUFFIX,cotweet.com,Global
 HOST-SUFFIX,counter.social,Global
 HOST-SUFFIX,coursehero.com,Global
+<<<<<<< HEAD
 HOST-SUFFIX,covenantswatch.org.tw,Global
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,coze.com,Global
 HOST-SUFFIX,cpj.org,Global
 HOST-SUFFIX,cpu-monkey.com,Global
@@ -1651,7 +1658,10 @@ HOST-SUFFIX,dowei.org,Global
 HOST-SUFFIX,dowjones.com,Global
 HOST-SUFFIX,download.aircrack-ng.org,Global
 HOST-SUFFIX,download.cnet.com,Global
+<<<<<<< HEAD
 HOST-SUFFIX,dpdns.org,Global
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,dphk.org,Global
 HOST-SUFFIX,dpool.top,Global
 HOST-SUFFIX,dpp.org.tw,Global
@@ -2237,8 +2247,11 @@ HOST-SUFFIX,ftvnews.com.tw,Global
 HOST-SUFFIX,ftx.com,Global
 HOST-SUFFIX,fucd.com,Global
 HOST-SUFFIX,fuchsia.dev,Global
+<<<<<<< HEAD
 HOST-SUFFIX,fuckccp.com,Global
 HOST-SUFFIX,fuckccp.xyz,Global
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,fuckcnnic.net,Global
 HOST-SUFFIX,fuckgfw.org,Global
 HOST-SUFFIX,fuckgfw233.org,Global
@@ -3353,7 +3366,10 @@ HOST-SUFFIX,itemdb.com,Global
 HOST-SUFFIX,itemfix.com,Global
 HOST-SUFFIX,ithelp.ithome.com.tw,Global
 HOST-SUFFIX,ithome.com.tw,Global
+<<<<<<< HEAD
 HOST-SUFFIX,itiger.com,Global
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,itsaol.com,Global
 HOST-SUFFIX,itshidden.com,Global
 HOST-SUFFIX,itsky.it,Global
@@ -4041,7 +4057,10 @@ HOST-SUFFIX,mog.com,Global
 HOST-SUFFIX,mohu.club,Global
 HOST-SUFFIX,mohu.ml,Global
 HOST-SUFFIX,mohu.rocks,Global
+<<<<<<< HEAD
 HOST-SUFFIX,moj.gov.tw,Global
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,mojim.com,Global
 HOST-SUFFIX,mol.gov.tw,Global
 HOST-SUFFIX,molihua.org,Global
@@ -6316,7 +6335,10 @@ HOST-SUFFIX,udn.com,Global
 HOST-SUFFIX,udn.com.tw,Global
 HOST-SUFFIX,udnbkk.com,Global
 HOST-SUFFIX,udndata.com,Global
+<<<<<<< HEAD
 HOST-SUFFIX,udomain.hk,Global
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,uforadio.com.tw,Global
 HOST-SUFFIX,ufreevpn.com,Global
 HOST-SUFFIX,ugo.com,Global

@@ -1,5 +1,9 @@
 # 规则名称: PROXY
+<<<<<<< HEAD
 # 规则统计: 31429
+=======
+# 规则统计: 31170
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 
 HOST,1password.drift.click,PROXY
 HOST,3dns-1.adobe.com,PROXY
@@ -75,7 +79,10 @@ HOST,bnetshopus.akamaized.net,PROXY
 HOST,brightcove.imgix.net,PROXY
 HOST,bybit-exchange.github.io,PROXY
 HOST,bybit.ada.support,PROXY
+<<<<<<< HEAD
 HOST,bytedance.map.fastly.net,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST,c.ppy.sh,PROXY
 HOST,cbsi.live.ott.irdeto.com,PROXY
 HOST,cbsplaylistserver.aws.syncbak.com,PROXY
@@ -123,7 +130,10 @@ HOST,databank.worldbank.org,PROXY
 HOST,database.asahi.com,PROXY
 HOST,ddacn6pr5v0tl.cloudfront.net,PROXY
 HOST,default.exp-tas.com,PROXY
+<<<<<<< HEAD
 HOST,dell.my.site.com,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST,deribit.cdn.prismic.io,PROXY
 HOST,deutschewelle.h-cdn.com,PROXY
 HOST,developer.microsoft.com,PROXY
@@ -400,7 +410,10 @@ HOST,statics-marketingsites-wcus-ms-com.akamaized.net,PROXY
 HOST,steambroadcast.akamaized.net,PROXY
 HOST,steamcdn-a.akamaihd.net,PROXY
 HOST,steamcommunity-a.akamaihd.net,PROXY
+<<<<<<< HEAD
 HOST,steamcommunity-a.akamaihd.net.edgesuite.net,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST,steammobile.akamaized.net,PROXY
 HOST,steampipe-kr.akamaized.net,PROXY
 HOST,steampipe-partner.akamaized.net,PROXY
@@ -429,7 +442,10 @@ HOST,time-e-b.nist.gov,PROXY
 HOST,time-e-g.nist.gov,PROXY
 HOST,time-e-wwv.nist.gov,PROXY
 HOST,time.apple.com,PROXY
+<<<<<<< HEAD
 HOST,time.asia.apple.com,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST,time.aws.com,PROXY
 HOST,time.cloudflare.com,PROXY
 HOST,time.euro.apple.com,PROXY
@@ -802,7 +818,10 @@ HOST-SUFFIX,2014cheapbeatsbydre.com,PROXY
 HOST-SUFFIX,2019baidu.xyz,PROXY
 HOST-SUFFIX,2021hkcharter.com,PROXY
 HOST-SUFFIX,2023aga.oen.tw,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,2025copy.com,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,2047.name,PROXY
 HOST-SUFFIX,2047.one,PROXY
 HOST-SUFFIX,2049bbs.xyz,PROXY
@@ -1618,10 +1637,15 @@ HOST-SUFFIX,aerospace-training-wales.ac.uk,PROXY
 HOST-SUFFIX,aes.ac.uk,PROXY
 HOST-SUFFIX,aesworkshops.com,PROXY
 HOST-SUFFIX,aex.com,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,af-east-201.myhuaweicloud.com,PROXY
 HOST-SUFFIX,af-north-1.myhuaweicloud.com,PROXY
 HOST-SUFFIX,af-south-1.myhuaweicloud.com,PROXY
 HOST-SUFFIX,af-west-202.myhuaweicloud.com,PROXY
+=======
+HOST-SUFFIX,af-north-1.myhuaweicloud.com,PROXY
+HOST-SUFFIX,af-south-1.myhuaweicloud.com,PROXY
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,af.mil,PROXY
 HOST-SUFFIX,afantibbs.com,PROXY
 HOST-SUFFIX,afao.ac.uk,PROXY
@@ -1915,6 +1939,7 @@ HOST-SUFFIX,alibabacloud.com.tw,PROXY
 HOST-SUFFIX,alicejapan.co.jp,PROXY
 HOST-SUFFIX,alicloud.com,PROXY
 HOST-SUFFIX,aliengu.com,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,alienware.ae,PROXY
 HOST-SUFFIX,alienware.at,PROXY
 HOST-SUFFIX,alienware.be,PROXY
@@ -1952,6 +1977,8 @@ HOST-SUFFIX,alienware.ps,PROXY
 HOST-SUFFIX,alienware.ro,PROXY
 HOST-SUFFIX,alienware.se,PROXY
 HOST-SUFFIX,alienware.us,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,aliexpress.ru,PROXY
 HOST-SUFFIX,alihealth.hk,PROXY
 HOST-SUFFIX,alipay.hk,PROXY
@@ -2195,7 +2222,10 @@ HOST-SUFFIX,amazonaws.org,PROXY
 HOST-SUFFIX,amazonaws.tv,PROXY
 HOST-SUFFIX,amazonbusiness.org,PROXY
 HOST-SUFFIX,amazonbusinessblog.com,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,amazoncognito.com,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,amazondevicesupport.com,PROXY
 HOST-SUFFIX,amazonfctours.com,PROXY
 HOST-SUFFIX,amazonianblog.com,PROXY
@@ -2456,7 +2486,10 @@ HOST-SUFFIX,ap-mumbai.myqcloud.com,PROXY
 HOST-SUFFIX,ap-mumbai.tencentcos.cn,PROXY
 HOST-SUFFIX,ap-mumbai.tencentcos.com,PROXY
 HOST-SUFFIX,ap-mumbai.tencentcos.com.cn,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,ap-northeast-201.myhuaweicloud.com,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,ap-seoul.myqcloud.com,PROXY
 HOST-SUFFIX,ap-seoul.tencentcos.cn,PROXY
 HOST-SUFFIX,ap-seoul.tencentcos.com,PROXY
@@ -2467,12 +2500,17 @@ HOST-SUFFIX,ap-singapore.tencentcos.com,PROXY
 HOST-SUFFIX,ap-singapore.tencentcos.com.cn,PROXY
 HOST-SUFFIX,ap-southeast-1.myhuaweicloud.com,PROXY
 HOST-SUFFIX,ap-southeast-2.myhuaweicloud.com,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,ap-southeast-201.myhuaweicloud.com,PROXY
 HOST-SUFFIX,ap-southeast-202.myhuaweicloud.com,PROXY
 HOST-SUFFIX,ap-southeast-203.myhuaweicloud.com,PROXY
 HOST-SUFFIX,ap-southeast-3.myhuaweicloud.com,PROXY
 HOST-SUFFIX,ap-southeast-4.myhuaweicloud.com,PROXY
 HOST-SUFFIX,ap-southeast-5.myhuaweicloud.com,PROXY
+=======
+HOST-SUFFIX,ap-southeast-3.myhuaweicloud.com,PROXY
+HOST-SUFFIX,ap-southeast-4.myhuaweicloud.com,PROXY
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,ap-tokyo.myqcloud.com,PROXY
 HOST-SUFFIX,ap-tokyo.tencentcos.cn,PROXY
 HOST-SUFFIX,ap-tokyo.tencentcos.com,PROXY
@@ -2991,10 +3029,13 @@ HOST-SUFFIX,arvanstorage.ir,PROXY
 HOST-SUFFIX,arxiv.org,PROXY
 HOST-SUFFIX,arzon.jp,PROXY
 HOST-SUFFIX,as-hp.ca,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,as-south-0.myhuaweicloud.com,PROXY
 HOST-SUFFIX,as-south-201.myhuaweicloud.com,PROXY
 HOST-SUFFIX,as-south-205.myhuaweicloud.com,PROXY
 HOST-SUFFIX,as-south-207.myhuaweicloud.com,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,asacp.org,PROXY
 HOST-SUFFIX,asagaku.com,PROXY
 HOST-SUFFIX,asahi.com,PROXY
@@ -3480,8 +3521,11 @@ HOST-SUFFIX,awlc.ac.uk,PROXY
 HOST-SUFFIX,aws,PROXY
 HOST-SUFFIX,aws-iot-hackathon.com,PROXY
 HOST-SUFFIX,aws.com,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,awsapprunner.com,PROXY
 HOST-SUFFIX,awsapps.com,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,awsautopilot.com,PROXY
 HOST-SUFFIX,awsautoscaling.com,PROXY
 HOST-SUFFIX,awsbraket.com,PROXY
@@ -5857,9 +5901,13 @@ HOST-SUFFIX,bynet.co.il,PROXY
 HOST-SUFFIX,bypasscensorship.org,PROXY
 HOST-SUFFIX,byrut.org,PROXY
 HOST-SUFFIX,byspotify.com,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,byteglb.com,PROXY
 HOST-SUFFIX,byteoversea.com,PROXY
 HOST-SUFFIX,byteoversea.net,PROXY
+=======
+HOST-SUFFIX,byteoversea.com,PROXY
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,bytick.com,PROXY
 HOST-SUFFIX,byzantine-ahrb-centre.ac.uk,PROXY
 HOST-SUFFIX,byzantium.ac.uk,PROXY
@@ -5877,7 +5925,10 @@ HOST-SUFFIX,c3pool.com,PROXY
 HOST-SUFFIX,c4ccetl.ac.uk,PROXY
 HOST-SUFFIX,c4rex.co,PROXY
 HOST-SUFFIX,c4slive.com,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,ca-east-201.myhuaweicloud.com,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,ca.file.myqcloud.com,PROXY
 HOST-SUFFIX,caacentre.ac.uk,PROXY
 HOST-SUFFIX,caadoc.ac.uk,PROXY
@@ -7378,6 +7429,10 @@ HOST-SUFFIX,contest.com,PROXY
 HOST-SUFFIX,contests.twilio.com,PROXY
 HOST-SUFFIX,convio.net,PROXY
 HOST-SUFFIX,convrgencegame.com,PROXY
+<<<<<<< HEAD
+=======
+HOST-SUFFIX,cooer.su,PROXY
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,cookiechoices.org,PROXY
 HOST-SUFFIX,cookielaw.org,PROXY
 HOST-SUFFIX,cookiepro.com,PROXY
@@ -7393,8 +7448,11 @@ HOST-SUFFIX,coolncute.com,PROXY
 HOST-SUFFIX,coolsexnew.com,PROXY
 HOST-SUFFIX,coolstuffinc.com,PROXY
 HOST-SUFFIX,coomer.party,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,coomer.st,PROXY
 HOST-SUFFIX,coomer.su,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,coova.com,PROXY
 HOST-SUFFIX,coova.net,PROXY
 HOST-SUFFIX,coova.org,PROXY
@@ -7404,9 +7462,12 @@ HOST-SUFFIX,copior.ac.uk,PROXY
 HOST-SUFFIX,copro.pw,PROXY
 HOST-SUFFIX,cops.ac.uk,PROXY
 HOST-SUFFIX,copstat.ac.uk,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,copy-manga.com,PROXY
 HOST-SUFFIX,copy20.com,PROXY
 HOST-SUFFIX,copy2000.online,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,coqnu.com,PROXY
 HOST-SUFFIX,corbinfisher.com,PROXY
 HOST-SUFFIX,cordcloud.org,PROXY
@@ -7476,7 +7537,10 @@ HOST-SUFFIX,courtauld.ac.uk,PROXY
 HOST-SUFFIX,cov.ac.uk,PROXY
 HOST-SUFFIX,covcollege.ac.uk,PROXY
 HOST-SUFFIX,cove4careinkent.ac.uk,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,covenantswatch.org.tw,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,coventry.ac.uk,PROXY
 HOST-SUFFIX,coventrycollege.ac.uk,PROXY
 HOST-SUFFIX,coventryuniversity.ac.uk,PROXY
@@ -7962,7 +8026,10 @@ HOST-SUFFIX,data-service.ac.uk,PROXY
 HOST-SUFFIX,data-vocabulary.org,PROXY
 HOST-SUFFIX,data.ac.uk,PROXY
 HOST-SUFFIX,data.com,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,dataframeworks.com,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,datafuturesalphapilot.ac.uk,PROXY
 HOST-SUFFIX,datagrid.ac.uk,PROXY
 HOST-SUFFIX,dataliberation.org,PROXY
@@ -8080,8 +8147,11 @@ HOST-SUFFIX,definebabe.com,PROXY
 HOST-SUFFIX,definefetish.com,PROXY
 HOST-SUFFIX,degruyter.com,PROXY
 HOST-SUFFIX,deja.com,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,del.com,PROXY
 HOST-SUFFIX,del.com.br,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,delcam-ams.com,PROXY
 HOST-SUFFIX,delcam-electrode.com,PROXY
 HOST-SUFFIX,delcam-na.com,PROXY
@@ -8098,6 +8168,7 @@ HOST-SUFFIX,delcamusa.com,PROXY
 HOST-SUFFIX,delicious.com,PROXY
 HOST-SUFFIX,delicious.com.au,PROXY
 HOST-SUFFIX,dell,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,dell.ac,PROXY
 HOST-SUFFIX,dell.am,PROXY
 HOST-SUFFIX,dell.at,PROXY
@@ -8253,6 +8324,13 @@ HOST-SUFFIX,delltechcenter.com,PROXY
 HOST-SUFFIX,delltechnologies.com,PROXY
 HOST-SUFFIX,delltechnologiescapital.com,PROXY
 HOST-SUFFIX,delltechnologiesworld.com,PROXY
+=======
+HOST-SUFFIX,dell-brand.com,PROXY
+HOST-SUFFIX,dell.com,PROXY
+HOST-SUFFIX,dellcdn.com,PROXY
+HOST-SUFFIX,dellsupportcenter.com,PROXY
+HOST-SUFFIX,delltechnologies.com,PROXY
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,deluxe.com.hk,PROXY
 HOST-SUFFIX,delvenetworks.com,PROXY
 HOST-SUFFIX,demand.ac.uk,PROXY
@@ -8753,6 +8831,10 @@ HOST-SUFFIX,dnsserver1.de,PROXY
 HOST-SUFFIX,dnsserver2.de,PROXY
 HOST-SUFFIX,dnsvisa.com,PROXY
 HOST-SUFFIX,dnvod.tv,PROXY
+<<<<<<< HEAD
+=======
+HOST-SUFFIX,dnvodcdn.me,PROXY
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,do.co,PROXY
 HOST-SUFFIX,dobbyporn.com,PROXY
 HOST-SUFFIX,dobendan.de,PROXY
@@ -8877,7 +8959,10 @@ HOST-SUFFIX,download.com,PROXY
 HOST-SUFFIX,download.qatp1.net,PROXY
 HOST-SUFFIX,downloadpass.com,PROXY
 HOST-SUFFIX,downloadsforipod.com,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,dpdns.org,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,dphk.org,PROXY
 HOST-SUFFIX,dpoc.ac.uk,PROXY
 HOST-SUFFIX,dpool.top,PROXY
@@ -9276,7 +9361,10 @@ HOST-SUFFIX,earngeek.com,PROXY
 HOST-SUFFIX,earphonescheapest.com,PROXY
 HOST-SUFFIX,earpod.net,PROXY
 HOST-SUFFIX,earthcam.com,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,earthdell.com,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,earthsciencescotland.ac.uk,PROXY
 HOST-SUFFIX,earthvpn.com,PROXY
 HOST-SUFFIX,ease.ac.uk,PROXY
@@ -10148,8 +10236,11 @@ HOST-SUFFIX,ettrade.com.hk,PROXY
 HOST-SUFFIX,etviet.com,PROXY
 HOST-SUFFIX,etvonline.hk,PROXY
 HOST-SUFFIX,etwealth.com,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,eu-central-201.myhuaweicloud.com,PROXY
 HOST-SUFFIX,eu-central-202.myhuaweicloud.com,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,eu-consumer-empowerment.com,PROXY
 HOST-SUFFIX,eu-frankfurt.myqcloud.com,PROXY
 HOST-SUFFIX,eu-frankfurt.tencentcos.cn,PROXY
@@ -10159,11 +10250,16 @@ HOST-SUFFIX,eu-moscow.myqcloud.com,PROXY
 HOST-SUFFIX,eu-moscow.tencentcos.cn,PROXY
 HOST-SUFFIX,eu-moscow.tencentcos.com,PROXY
 HOST-SUFFIX,eu-moscow.tencentcos.com.cn,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,eu-north-201.myhuaweicloud.com,PROXY
 HOST-SUFFIX,eu-west-0.myhuaweicloud.com,PROXY
 HOST-SUFFIX,eu-west-1.myhuaweicloud.com,PROXY
 HOST-SUFFIX,eu-west-101.myhuaweicloud.com,PROXY
 HOST-SUFFIX,eu-west-201.myhuaweicloud.com,PROXY
+=======
+HOST-SUFFIX,eu-west-0.myhuaweicloud.com,PROXY
+HOST-SUFFIX,eu-west-101.myhuaweicloud.com,PROXY
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,eubluecardvisa.com,PROXY
 HOST-SUFFIX,eucasino.com,PROXY
 HOST-SUFFIX,eued.ac.uk,PROXY
@@ -11643,8 +11739,11 @@ HOST-SUFFIX,fuck55.net,PROXY
 HOST-SUFFIX,fuck6teen.com,PROXY
 HOST-SUFFIX,fuckableteens.net,PROXY
 HOST-SUFFIX,fuckbookecuador.com,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,fuckccp.com,PROXY
 HOST-SUFFIX,fuckccp.xyz,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,fuckcuck.com,PROXY
 HOST-SUFFIX,fuckgames.xxx,PROXY
 HOST-SUFFIX,fuckgfw.org,PROXY
@@ -12122,7 +12221,10 @@ HOST-SUFFIX,ggpds.com,PROXY
 HOST-SUFFIX,ggpht.com,PROXY
 HOST-SUFFIX,ggsrv.com,PROXY
 HOST-SUFFIX,ggssl.com,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,gh.io,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,ghbi.ir,PROXY
 HOST-SUFFIX,ghcr.io,PROXY
 HOST-SUFFIX,ghettotube.com,PROXY
@@ -12184,7 +12286,10 @@ HOST-SUFFIX,git-scm.com,PROXY
 HOST-SUFFIX,git.io,PROXY
 HOST-SUFFIX,gitbook.com,PROXY
 HOST-SUFFIX,gitbook.io,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,github.ai,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,github.blog,PROXY
 HOST-SUFFIX,github.com,PROXY
 HOST-SUFFIX,github.community,PROXY
@@ -14320,7 +14425,10 @@ HOST-SUFFIX,i-123-hp.com,PROXY
 HOST-SUFFIX,i-book.com,PROXY
 HOST-SUFFIX,i-book.net,PROXY
 HOST-SUFFIX,i-cable.com,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,i-cablecomm.com,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,i-centralwm.ac.uk,PROXY
 HOST-SUFFIX,i-lab.ac.uk,PROXY
 HOST-SUFFIX,i-o-u.info,PROXY
@@ -15550,7 +15658,10 @@ HOST-SUFFIX,itemdb.com,PROXY
 HOST-SUFFIX,itemfix.com,PROXY
 HOST-SUFFIX,itfromtheinside.com,PROXY
 HOST-SUFFIX,ithelp.ithome.com.tw,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,itiger.com,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,itlearningspace-scot.ac.uk,PROXY
 HOST-SUFFIX,itnel.com,PROXY
 HOST-SUFFIX,itnow.ac.uk,PROXY
@@ -16255,7 +16366,10 @@ HOST-SUFFIX,keepyourcad.com,PROXY
 HOST-SUFFIX,keezmovies.com,PROXY
 HOST-SUFFIX,keiba.net,PROXY
 HOST-SUFFIX,keighleycollege.ac.uk,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,kemono.cr,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,kemono.party,PROXY
 HOST-SUFFIX,kemono.su,PROXY
 HOST-SUFFIX,kendal.ac.uk,PROXY
@@ -16533,7 +16647,10 @@ HOST-SUFFIX,l-msedge.net,PROXY
 HOST-SUFFIX,la-forum.org,PROXY
 HOST-SUFFIX,la-mama.ru,PROXY
 HOST-SUFFIX,la-north-2.myhuaweicloud.com,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,la-north-205.myhuaweicloud.com,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,la-south-2.myhuaweicloud.com,PROXY
 HOST-SUFFIX,lab.skk.moe,PROXY
 HOST-SUFFIX,laban.ac.uk,PROXY
@@ -16645,7 +16762,10 @@ HOST-SUFFIX,lazymike.com,PROXY
 HOST-SUFFIX,lbank.info,PROXY
 HOST-SUFFIX,lbc-northwood.ac.uk,PROXY
 HOST-SUFFIX,lbc.ac.uk,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,lbctrl.com,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,lbfmaddiction.com,PROXY
 HOST-SUFFIX,lbkrs.com,PROXY
 HOST-SUFFIX,lboro.ac.uk,PROXY
@@ -17194,7 +17314,10 @@ HOST-SUFFIX,londonstudiocenter.ac.uk,PROXY
 HOST-SUFFIX,londonstudiocentre.ac.uk,PROXY
 HOST-SUFFIX,lonestarnaughtygirls.com,PROXY
 HOST-SUFFIX,longbridge.cloud,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,longbridge.com,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,longbridge.global,PROXY
 HOST-SUFFIX,longbridge.hk,PROXY
 HOST-SUFFIX,longbridge.sg,PROXY
@@ -17610,11 +17733,16 @@ HOST-SUFFIX,mandiant.com,PROXY
 HOST-SUFFIX,manga-mill.com,PROXY
 HOST-SUFFIX,manga18.art,PROXY
 HOST-SUFFIX,mangabz.com,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,mangacopy.com,PROXY
 HOST-SUFFIX,mangafox.com,PROXY
 HOST-SUFFIX,mangafox.me,PROXY
 HOST-SUFFIX,mangafuna.xyz,PROXY
 HOST-SUFFIX,mangafunb.fun,PROXY
+=======
+HOST-SUFFIX,mangafox.com,PROXY
+HOST-SUFFIX,mangafox.me,PROXY
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,mangahasu.se,PROXY
 HOST-SUFFIX,mangahentai.me,PROXY
 HOST-SUFFIX,mangahome.com,PROXY
@@ -17997,9 +18125,12 @@ HOST-SUFFIX,mdtt-tv.sbs,PROXY
 HOST-SUFFIX,mdx.ac.uk,PROXY
 HOST-SUFFIX,mdyy.de,PROXY
 HOST-SUFFIX,me-east-1.myhuaweicloud.com,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,me-east-205.myhuaweicloud.com,PROXY
 HOST-SUFFIX,me-east-208.myhuaweicloud.com,PROXY
 HOST-SUFFIX,me-east-209.myhuaweicloud.com,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,me-gay.com,PROXY
 HOST-SUFFIX,me.com,PROXY
 HOST-SUFFIX,me.me,PROXY
@@ -19459,7 +19590,10 @@ HOST-SUFFIX,na-ashburn.tencentcos.cn,PROXY
 HOST-SUFFIX,na-ashburn.tencentcos.com,PROXY
 HOST-SUFFIX,na-ashburn.tencentcos.com.cn,PROXY
 HOST-SUFFIX,na-att-idns.net,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,na-east-0.myhuaweicloud.com,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,na-me.ac.uk,PROXY
 HOST-SUFFIX,na-mexico-1.myhuaweicloud.com,PROXY
 HOST-SUFFIX,na-siliconvalley.myqcloud.com,PROXY
@@ -19597,7 +19731,10 @@ HOST-SUFFIX,navisworks.net,PROXY
 HOST-SUFFIX,navyfamily.navy.mil,PROXY
 HOST-SUFFIX,navyreserve.navy.mil,PROXY
 HOST-SUFFIX,naweeklytimes.com,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,naydex.net,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,nazarene.ac.uk,PROXY
 HOST-SUFFIX,nbabot.net,PROXY
 HOST-SUFFIX,nbc.co,PROXY
@@ -21805,7 +21942,10 @@ HOST-SUFFIX,performancescience.ac.uk,PROXY
 HOST-SUFFIX,periscope.tv,PROXY
 HOST-SUFFIX,perl.org,PROXY
 HOST-SUFFIX,perplexity.ai,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,perplexity.com,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,persagg.com,PROXY
 HOST-SUFFIX,persecutionblog.com,PROXY
 HOST-SUFFIX,pershore.ac.uk,PROXY
@@ -23773,7 +23913,10 @@ HOST-SUFFIX,rti.tw,PROXY
 HOST-SUFFIX,rtings.com,PROXY
 HOST-SUFFIX,ru-moscow-1.myhuaweicloud.com,PROXY
 HOST-SUFFIX,ru-northwest-2.myhuaweicloud.com,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,ru-northwest-201.myhuaweicloud.com,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,rua-project.ac.uk,PROXY
 HOST-SUFFIX,ruanyifeng.com,PROXY
 HOST-SUFFIX,ruby-lang.org,PROXY
@@ -23796,8 +23939,11 @@ HOST-SUFFIX,rule34video.com,PROXY
 HOST-SUFFIX,ruleporn.com,PROXY
 HOST-SUFFIX,rumah123.com,PROXY
 HOST-SUFFIX,rumble.com,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,rumt-sg.com,PROXY
 HOST-SUFFIX,rumt-us.com,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,run.app,PROXY
 HOST-SUFFIX,runbtx.com,PROXY
 HOST-SUFFIX,runnike.com,PROXY
@@ -23867,8 +24013,11 @@ HOST-SUFFIX,sa-saopaulo.tencentcos.cn,PROXY
 HOST-SUFFIX,sa-saopaulo.tencentcos.com,PROXY
 HOST-SUFFIX,sa-saopaulo.tencentcos.com.cn,PROXY
 HOST-SUFFIX,sa.hao123.com,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,saasexch.cc,PROXY
 HOST-SUFFIX,saasexch.co,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,saasexch.com,PROXY
 HOST-SUFFIX,saasexch.io,PROXY
 HOST-SUFFIX,sabuibo.net,PROXY
@@ -24740,7 +24889,10 @@ HOST-SUFFIX,shootershill.ac.uk,PROXY
 HOST-SUFFIX,shop-headphones.net,PROXY
 HOST-SUFFIX,shop.app,PROXY
 HOST-SUFFIX,shop2000.com.tw,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,shopalienware.com,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,shopbeatsdre.com,PROXY
 HOST-SUFFIX,shopbmwmotorcycles.com,PROXY
 HOST-SUFFIX,shopbmwusa.com,PROXY
@@ -25135,7 +25287,10 @@ HOST-SUFFIX,sneakerskick.com,PROXY
 HOST-SUFFIX,sneakme.net,PROXY
 HOST-SUFFIX,snjulebu.com,PROXY
 HOST-SUFFIX,snk-corp.co.jp,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,snk-corp.info,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,snkplaymore.info,PROXY
 HOST-SUFFIX,snow.me,PROXY
 HOST-SUFFIX,snowcorp.com,PROXY
@@ -25229,7 +25384,10 @@ HOST-SUFFIX,solihullsfc.ac.uk,PROXY
 HOST-SUFFIX,solostudioksale.com,PROXY
 HOST-SUFFIX,solsfc.ac.uk,PROXY
 HOST-SUFFIX,solutions-worcestershire.ac.uk,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,solutionstation.com,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,solv.finance,PROXY
 HOST-SUFFIX,solveforx.com,PROXY
 HOST-SUFFIX,somee.com,PROXY
@@ -25361,7 +25519,10 @@ HOST-SUFFIX,souka.xyz,PROXY
 HOST-SUFFIX,soul-plus.net,PROXY
 HOST-SUFFIX,soulcaliburhentai.net,PROXY
 HOST-SUFFIX,sound-heritage.ac.uk,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,soundcloud.cloud,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,soundcloud.com,PROXY
 HOST-SUFFIX,soundofhope.eu,PROXY
 HOST-SUFFIX,soundofhope.kr,PROXY
@@ -25984,7 +26145,10 @@ HOST-SUFFIX,studentshows.ac.uk,PROXY
 HOST-SUFFIX,studentvoteregistration.ac.uk,PROXY
 HOST-SUFFIX,studentvoterregistration.ac.uk,PROXY
 HOST-SUFFIX,studiobeatsbydrdre.com,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,studiodell.com,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,studiofow.com,PROXY
 HOST-SUFFIX,studiolico.com,PROXY
 HOST-SUFFIX,studioluxus.com,PROXY
@@ -27517,8 +27681,11 @@ HOST-SUFFIX,tubevintageporn.com,PROXY
 HOST-SUFFIX,tubewolf.com,PROXY
 HOST-SUFFIX,tubexclips.com,PROXY
 HOST-SUFFIX,tubi.io,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,tubi.tv,PROXY
 HOST-SUFFIX,tubi.video,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,tubinge.com,PROXY
 HOST-SUFFIX,tubitv.com,PROXY
 HOST-SUFFIX,tubsexer.com,PROXY
@@ -27844,7 +28011,10 @@ HOST-SUFFIX,udn.com.tw,PROXY
 HOST-SUFFIX,udnbkk.com,PROXY
 HOST-SUFFIX,udndata.com,PROXY
 HOST-SUFFIX,udnfunlife.com,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,udomain.hk,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,udtrucksmeena.com,PROXY
 HOST-SUFFIX,uea.ac.uk,PROXY
 HOST-SUFFIX,ueberamazon.de,PROXY
@@ -28138,7 +28308,10 @@ HOST-SUFFIX,urlborg.com,PROXY
 HOST-SUFFIX,urlgalleries.net,PROXY
 HOST-SUFFIX,urlparser.com,PROXY
 HOST-SUFFIX,urukawa.com,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,us-east-1.myhuaweicloud.com,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,us.to,PROXY
 HOST-SUFFIX,us.weibo.com,PROXY
 HOST-SUFFIX,usa-beatsbydreheadphonesonsale.net,PROXY
@@ -28333,7 +28506,10 @@ HOST-SUFFIX,vaultify.net,PROXY
 HOST-SUFFIX,vaultproject.io,PROXY
 HOST-SUFFIX,vbejeyv.shop,PROXY
 HOST-SUFFIX,vcanedge.com,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,vce.com,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,vcf-online.org,PROXY
 HOST-SUFFIX,vcfbuilder.org,PROXY
 HOST-SUFFIX,vcloudair.net,PROXY
@@ -30772,7 +30948,10 @@ HOST-SUFFIX,yandex-images.clstorage.net,PROXY
 HOST-SUFFIX,yandex.aero,PROXY
 HOST-SUFFIX,yandex.az,PROXY
 HOST-SUFFIX,yandex.by,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,yandex.cloud,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,yandex.co.il,PROXY
 HOST-SUFFIX,yandex.com,PROXY
 HOST-SUFFIX,yandex.com.am,PROXY
@@ -30854,7 +31033,10 @@ HOST-SUFFIX,yespornplease.com,PROXY
 HOST-SUFFIX,yespornpleasexxx.com,PROXY
 HOST-SUFFIX,yeswegays.com,PROXY
 HOST-SUFFIX,yeyeclub.com,PROXY
+<<<<<<< HEAD
 HOST-SUFFIX,yfsp.tv,PROXY
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,yft-mv.sbs,PROXY
 HOST-SUFFIX,ygto.com,PROXY
 HOST-SUFFIX,ygugu4.com,PROXY

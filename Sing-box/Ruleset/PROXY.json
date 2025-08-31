@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "version": 3,
+=======
+  "version": 2,
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   "rules": [
     {
       "domain": [
@@ -77,7 +81,10 @@
         "brightcove.imgix.net",
         "bybit-exchange.github.io",
         "bybit.ada.support",
+<<<<<<< HEAD
         "bytedance.map.fastly.net",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "c.ppy.sh",
         "cbsi.live.ott.irdeto.com",
         "cbsplaylistserver.aws.syncbak.com",
@@ -125,7 +132,10 @@
         "database.asahi.com",
         "ddacn6pr5v0tl.cloudfront.net",
         "default.exp-tas.com",
+<<<<<<< HEAD
         "dell.my.site.com",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "deribit.cdn.prismic.io",
         "deutschewelle.h-cdn.com",
         "developer.microsoft.com",
@@ -402,7 +412,10 @@
         "steambroadcast.akamaized.net",
         "steamcdn-a.akamaihd.net",
         "steamcommunity-a.akamaihd.net",
+<<<<<<< HEAD
         "steamcommunity-a.akamaihd.net.edgesuite.net",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "steammobile.akamaized.net",
         "steampipe-kr.akamaized.net",
         "steampipe-partner.akamaized.net",
@@ -431,7 +444,10 @@
         "time-e-g.nist.gov",
         "time-e-wwv.nist.gov",
         "time.apple.com",
+<<<<<<< HEAD
         "time.asia.apple.com",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "time.aws.com",
         "time.cloudflare.com",
         "time.euro.apple.com",
@@ -808,7 +824,10 @@
         "2019baidu.xyz",
         "2021hkcharter.com",
         "2023aga.oen.tw",
+<<<<<<< HEAD
         "2025copy.com",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "2047.name",
         "2047.one",
         "2049bbs.xyz",
@@ -1624,10 +1643,15 @@
         "aes.ac.uk",
         "aesworkshops.com",
         "aex.com",
+<<<<<<< HEAD
         "af-east-201.myhuaweicloud.com",
         "af-north-1.myhuaweicloud.com",
         "af-south-1.myhuaweicloud.com",
         "af-west-202.myhuaweicloud.com",
+=======
+        "af-north-1.myhuaweicloud.com",
+        "af-south-1.myhuaweicloud.com",
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "af.mil",
         "afantibbs.com",
         "afao.ac.uk",
@@ -1921,6 +1945,7 @@
         "alicejapan.co.jp",
         "alicloud.com",
         "aliengu.com",
+<<<<<<< HEAD
         "alienware.ae",
         "alienware.at",
         "alienware.be",
@@ -1958,6 +1983,8 @@
         "alienware.ro",
         "alienware.se",
         "alienware.us",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "aliexpress.ru",
         "alihealth.hk",
         "alipay.hk",
@@ -2201,7 +2228,10 @@
         "amazonaws.tv",
         "amazonbusiness.org",
         "amazonbusinessblog.com",
+<<<<<<< HEAD
         "amazoncognito.com",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "amazondevicesupport.com",
         "amazonfctours.com",
         "amazonianblog.com",
@@ -2462,7 +2492,10 @@
         "ap-mumbai.tencentcos.cn",
         "ap-mumbai.tencentcos.com",
         "ap-mumbai.tencentcos.com.cn",
+<<<<<<< HEAD
         "ap-northeast-201.myhuaweicloud.com",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "ap-seoul.myqcloud.com",
         "ap-seoul.tencentcos.cn",
         "ap-seoul.tencentcos.com",
@@ -2473,12 +2506,17 @@
         "ap-singapore.tencentcos.com.cn",
         "ap-southeast-1.myhuaweicloud.com",
         "ap-southeast-2.myhuaweicloud.com",
+<<<<<<< HEAD
         "ap-southeast-201.myhuaweicloud.com",
         "ap-southeast-202.myhuaweicloud.com",
         "ap-southeast-203.myhuaweicloud.com",
         "ap-southeast-3.myhuaweicloud.com",
         "ap-southeast-4.myhuaweicloud.com",
         "ap-southeast-5.myhuaweicloud.com",
+=======
+        "ap-southeast-3.myhuaweicloud.com",
+        "ap-southeast-4.myhuaweicloud.com",
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "ap-tokyo.myqcloud.com",
         "ap-tokyo.tencentcos.cn",
         "ap-tokyo.tencentcos.com",
@@ -2997,10 +3035,13 @@
         "arxiv.org",
         "arzon.jp",
         "as-hp.ca",
+<<<<<<< HEAD
         "as-south-0.myhuaweicloud.com",
         "as-south-201.myhuaweicloud.com",
         "as-south-205.myhuaweicloud.com",
         "as-south-207.myhuaweicloud.com",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "asacp.org",
         "asagaku.com",
         "asahi.com",
@@ -3486,8 +3527,11 @@
         "aws",
         "aws-iot-hackathon.com",
         "aws.com",
+<<<<<<< HEAD
         "awsapprunner.com",
         "awsapps.com",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "awsautopilot.com",
         "awsautoscaling.com",
         "awsbraket.com",
@@ -5863,9 +5907,13 @@
         "bypasscensorship.org",
         "byrut.org",
         "byspotify.com",
+<<<<<<< HEAD
         "byteglb.com",
         "byteoversea.com",
         "byteoversea.net",
+=======
+        "byteoversea.com",
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "bytick.com",
         "byzantine-ahrb-centre.ac.uk",
         "byzantium.ac.uk",
@@ -5883,7 +5931,10 @@
         "c4ccetl.ac.uk",
         "c4rex.co",
         "c4slive.com",
+<<<<<<< HEAD
         "ca-east-201.myhuaweicloud.com",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "ca.file.myqcloud.com",
         "caacentre.ac.uk",
         "caadoc.ac.uk",
@@ -7384,6 +7435,10 @@
         "contests.twilio.com",
         "convio.net",
         "convrgencegame.com",
+<<<<<<< HEAD
+=======
+        "cooer.su",
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "cookiechoices.org",
         "cookielaw.org",
         "cookiepro.com",
@@ -7399,8 +7454,11 @@
         "coolsexnew.com",
         "coolstuffinc.com",
         "coomer.party",
+<<<<<<< HEAD
         "coomer.st",
         "coomer.su",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "coova.com",
         "coova.net",
         "coova.org",
@@ -7410,9 +7468,12 @@
         "copro.pw",
         "cops.ac.uk",
         "copstat.ac.uk",
+<<<<<<< HEAD
         "copy-manga.com",
         "copy20.com",
         "copy2000.online",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "coqnu.com",
         "corbinfisher.com",
         "cordcloud.org",
@@ -7482,7 +7543,10 @@
         "cov.ac.uk",
         "covcollege.ac.uk",
         "cove4careinkent.ac.uk",
+<<<<<<< HEAD
         "covenantswatch.org.tw",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "coventry.ac.uk",
         "coventrycollege.ac.uk",
         "coventryuniversity.ac.uk",
@@ -7968,7 +8032,10 @@
         "data-vocabulary.org",
         "data.ac.uk",
         "data.com",
+<<<<<<< HEAD
         "dataframeworks.com",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "datafuturesalphapilot.ac.uk",
         "datagrid.ac.uk",
         "dataliberation.org",
@@ -8086,8 +8153,11 @@
         "definefetish.com",
         "degruyter.com",
         "deja.com",
+<<<<<<< HEAD
         "del.com",
         "del.com.br",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "delcam-ams.com",
         "delcam-electrode.com",
         "delcam-na.com",
@@ -8104,6 +8174,7 @@
         "delicious.com",
         "delicious.com.au",
         "dell",
+<<<<<<< HEAD
         "dell.ac",
         "dell.am",
         "dell.at",
@@ -8259,6 +8330,13 @@
         "delltechnologies.com",
         "delltechnologiescapital.com",
         "delltechnologiesworld.com",
+=======
+        "dell-brand.com",
+        "dell.com",
+        "dellcdn.com",
+        "dellsupportcenter.com",
+        "delltechnologies.com",
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "deluxe.com.hk",
         "delvenetworks.com",
         "demand.ac.uk",
@@ -8759,6 +8837,10 @@
         "dnsserver2.de",
         "dnsvisa.com",
         "dnvod.tv",
+<<<<<<< HEAD
+=======
+        "dnvodcdn.me",
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "do.co",
         "dobbyporn.com",
         "dobendan.de",
@@ -8883,7 +8965,10 @@
         "download.qatp1.net",
         "downloadpass.com",
         "downloadsforipod.com",
+<<<<<<< HEAD
         "dpdns.org",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "dphk.org",
         "dpoc.ac.uk",
         "dpool.top",
@@ -9282,7 +9367,10 @@
         "earphonescheapest.com",
         "earpod.net",
         "earthcam.com",
+<<<<<<< HEAD
         "earthdell.com",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "earthsciencescotland.ac.uk",
         "earthvpn.com",
         "ease.ac.uk",
@@ -10154,8 +10242,11 @@
         "etviet.com",
         "etvonline.hk",
         "etwealth.com",
+<<<<<<< HEAD
         "eu-central-201.myhuaweicloud.com",
         "eu-central-202.myhuaweicloud.com",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "eu-consumer-empowerment.com",
         "eu-frankfurt.myqcloud.com",
         "eu-frankfurt.tencentcos.cn",
@@ -10165,11 +10256,16 @@
         "eu-moscow.tencentcos.cn",
         "eu-moscow.tencentcos.com",
         "eu-moscow.tencentcos.com.cn",
+<<<<<<< HEAD
         "eu-north-201.myhuaweicloud.com",
         "eu-west-0.myhuaweicloud.com",
         "eu-west-1.myhuaweicloud.com",
         "eu-west-101.myhuaweicloud.com",
         "eu-west-201.myhuaweicloud.com",
+=======
+        "eu-west-0.myhuaweicloud.com",
+        "eu-west-101.myhuaweicloud.com",
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "eubluecardvisa.com",
         "eucasino.com",
         "eued.ac.uk",
@@ -11649,8 +11745,11 @@
         "fuck6teen.com",
         "fuckableteens.net",
         "fuckbookecuador.com",
+<<<<<<< HEAD
         "fuckccp.com",
         "fuckccp.xyz",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "fuckcuck.com",
         "fuckgames.xxx",
         "fuckgfw.org",
@@ -12128,7 +12227,10 @@
         "ggpht.com",
         "ggsrv.com",
         "ggssl.com",
+<<<<<<< HEAD
         "gh.io",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "ghbi.ir",
         "ghcr.io",
         "ghettotube.com",
@@ -12190,7 +12292,10 @@
         "git.io",
         "gitbook.com",
         "gitbook.io",
+<<<<<<< HEAD
         "github.ai",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "github.blog",
         "github.com",
         "github.community",
@@ -14326,7 +14431,10 @@
         "i-book.com",
         "i-book.net",
         "i-cable.com",
+<<<<<<< HEAD
         "i-cablecomm.com",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "i-centralwm.ac.uk",
         "i-lab.ac.uk",
         "i-o-u.info",
@@ -15556,7 +15664,10 @@
         "itemfix.com",
         "itfromtheinside.com",
         "ithelp.ithome.com.tw",
+<<<<<<< HEAD
         "itiger.com",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "itlearningspace-scot.ac.uk",
         "itnel.com",
         "itnow.ac.uk",
@@ -16261,7 +16372,10 @@
         "keezmovies.com",
         "keiba.net",
         "keighleycollege.ac.uk",
+<<<<<<< HEAD
         "kemono.cr",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "kemono.party",
         "kemono.su",
         "kendal.ac.uk",
@@ -16539,7 +16653,10 @@
         "la-forum.org",
         "la-mama.ru",
         "la-north-2.myhuaweicloud.com",
+<<<<<<< HEAD
         "la-north-205.myhuaweicloud.com",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "la-south-2.myhuaweicloud.com",
         "lab.skk.moe",
         "laban.ac.uk",
@@ -16651,7 +16768,10 @@
         "lbank.info",
         "lbc-northwood.ac.uk",
         "lbc.ac.uk",
+<<<<<<< HEAD
         "lbctrl.com",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "lbfmaddiction.com",
         "lbkrs.com",
         "lboro.ac.uk",
@@ -17200,7 +17320,10 @@
         "londonstudiocentre.ac.uk",
         "lonestarnaughtygirls.com",
         "longbridge.cloud",
+<<<<<<< HEAD
         "longbridge.com",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "longbridge.global",
         "longbridge.hk",
         "longbridge.sg",
@@ -17616,11 +17739,16 @@
         "manga-mill.com",
         "manga18.art",
         "mangabz.com",
+<<<<<<< HEAD
         "mangacopy.com",
         "mangafox.com",
         "mangafox.me",
         "mangafuna.xyz",
         "mangafunb.fun",
+=======
+        "mangafox.com",
+        "mangafox.me",
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "mangahasu.se",
         "mangahentai.me",
         "mangahome.com",
@@ -18003,9 +18131,12 @@
         "mdx.ac.uk",
         "mdyy.de",
         "me-east-1.myhuaweicloud.com",
+<<<<<<< HEAD
         "me-east-205.myhuaweicloud.com",
         "me-east-208.myhuaweicloud.com",
         "me-east-209.myhuaweicloud.com",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "me-gay.com",
         "me.com",
         "me.me",
@@ -19465,7 +19596,10 @@
         "na-ashburn.tencentcos.com",
         "na-ashburn.tencentcos.com.cn",
         "na-att-idns.net",
+<<<<<<< HEAD
         "na-east-0.myhuaweicloud.com",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "na-me.ac.uk",
         "na-mexico-1.myhuaweicloud.com",
         "na-siliconvalley.myqcloud.com",
@@ -19603,7 +19737,10 @@
         "navyfamily.navy.mil",
         "navyreserve.navy.mil",
         "naweeklytimes.com",
+<<<<<<< HEAD
         "naydex.net",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "nazarene.ac.uk",
         "nbabot.net",
         "nbc.co",
@@ -21811,7 +21948,10 @@
         "periscope.tv",
         "perl.org",
         "perplexity.ai",
+<<<<<<< HEAD
         "perplexity.com",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "persagg.com",
         "persecutionblog.com",
         "pershore.ac.uk",
@@ -23779,7 +23919,10 @@
         "rtings.com",
         "ru-moscow-1.myhuaweicloud.com",
         "ru-northwest-2.myhuaweicloud.com",
+<<<<<<< HEAD
         "ru-northwest-201.myhuaweicloud.com",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "rua-project.ac.uk",
         "ruanyifeng.com",
         "ruby-lang.org",
@@ -23802,8 +23945,11 @@
         "ruleporn.com",
         "rumah123.com",
         "rumble.com",
+<<<<<<< HEAD
         "rumt-sg.com",
         "rumt-us.com",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "run.app",
         "runbtx.com",
         "runnike.com",
@@ -23873,8 +24019,11 @@
         "sa-saopaulo.tencentcos.com",
         "sa-saopaulo.tencentcos.com.cn",
         "sa.hao123.com",
+<<<<<<< HEAD
         "saasexch.cc",
         "saasexch.co",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "saasexch.com",
         "saasexch.io",
         "sabuibo.net",
@@ -24746,7 +24895,10 @@
         "shop-headphones.net",
         "shop.app",
         "shop2000.com.tw",
+<<<<<<< HEAD
         "shopalienware.com",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "shopbeatsdre.com",
         "shopbmwmotorcycles.com",
         "shopbmwusa.com",
@@ -25141,7 +25293,10 @@
         "sneakme.net",
         "snjulebu.com",
         "snk-corp.co.jp",
+<<<<<<< HEAD
         "snk-corp.info",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "snkplaymore.info",
         "snow.me",
         "snowcorp.com",
@@ -25235,7 +25390,10 @@
         "solostudioksale.com",
         "solsfc.ac.uk",
         "solutions-worcestershire.ac.uk",
+<<<<<<< HEAD
         "solutionstation.com",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "solv.finance",
         "solveforx.com",
         "somee.com",
@@ -25367,7 +25525,10 @@
         "soul-plus.net",
         "soulcaliburhentai.net",
         "sound-heritage.ac.uk",
+<<<<<<< HEAD
         "soundcloud.cloud",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "soundcloud.com",
         "soundofhope.eu",
         "soundofhope.kr",
@@ -25990,7 +26151,10 @@
         "studentvoteregistration.ac.uk",
         "studentvoterregistration.ac.uk",
         "studiobeatsbydrdre.com",
+<<<<<<< HEAD
         "studiodell.com",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "studiofow.com",
         "studiolico.com",
         "studioluxus.com",
@@ -27523,8 +27687,11 @@
         "tubewolf.com",
         "tubexclips.com",
         "tubi.io",
+<<<<<<< HEAD
         "tubi.tv",
         "tubi.video",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "tubinge.com",
         "tubitv.com",
         "tubsexer.com",
@@ -27850,7 +28017,10 @@
         "udnbkk.com",
         "udndata.com",
         "udnfunlife.com",
+<<<<<<< HEAD
         "udomain.hk",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "udtrucksmeena.com",
         "uea.ac.uk",
         "ueberamazon.de",
@@ -28144,7 +28314,10 @@
         "urlgalleries.net",
         "urlparser.com",
         "urukawa.com",
+<<<<<<< HEAD
         "us-east-1.myhuaweicloud.com",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "us.to",
         "us.weibo.com",
         "usa-beatsbydreheadphonesonsale.net",
@@ -28339,7 +28512,10 @@
         "vaultproject.io",
         "vbejeyv.shop",
         "vcanedge.com",
+<<<<<<< HEAD
         "vce.com",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "vcf-online.org",
         "vcfbuilder.org",
         "vcloudair.net",
@@ -30778,7 +30954,10 @@
         "yandex.aero",
         "yandex.az",
         "yandex.by",
+<<<<<<< HEAD
         "yandex.cloud",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "yandex.co.il",
         "yandex.com",
         "yandex.com.am",
@@ -30860,7 +31039,10 @@
         "yespornpleasexxx.com",
         "yeswegays.com",
         "yeyeclub.com",
+<<<<<<< HEAD
         "yfsp.tv",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "yft-mv.sbs",
         "ygto.com",
         "ygugu4.com",

@@ -1,5 +1,9 @@
 # 规则名称: PROXY
+<<<<<<< HEAD
 # 规则统计: 31429
+=======
+# 规则统计: 31170
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 
 payload:
   - '1password.drift.click'
@@ -76,7 +80,10 @@ payload:
   - 'brightcove.imgix.net'
   - 'bybit-exchange.github.io'
   - 'bybit.ada.support'
+<<<<<<< HEAD
   - 'bytedance.map.fastly.net'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - 'c.ppy.sh'
   - 'cbsi.live.ott.irdeto.com'
   - 'cbsplaylistserver.aws.syncbak.com'
@@ -124,7 +131,10 @@ payload:
   - 'database.asahi.com'
   - 'ddacn6pr5v0tl.cloudfront.net'
   - 'default.exp-tas.com'
+<<<<<<< HEAD
   - 'dell.my.site.com'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - 'deribit.cdn.prismic.io'
   - 'deutschewelle.h-cdn.com'
   - 'developer.microsoft.com'
@@ -401,7 +411,10 @@ payload:
   - 'steambroadcast.akamaized.net'
   - 'steamcdn-a.akamaihd.net'
   - 'steamcommunity-a.akamaihd.net'
+<<<<<<< HEAD
   - 'steamcommunity-a.akamaihd.net.edgesuite.net'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - 'steammobile.akamaized.net'
   - 'steampipe-kr.akamaized.net'
   - 'steampipe-partner.akamaized.net'
@@ -430,7 +443,10 @@ payload:
   - 'time-e-g.nist.gov'
   - 'time-e-wwv.nist.gov'
   - 'time.apple.com'
+<<<<<<< HEAD
   - 'time.asia.apple.com'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - 'time.aws.com'
   - 'time.cloudflare.com'
   - 'time.euro.apple.com'
@@ -803,7 +819,10 @@ payload:
   - '+.2019baidu.xyz'
   - '+.2021hkcharter.com'
   - '+.2023aga.oen.tw'
+<<<<<<< HEAD
   - '+.2025copy.com'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.2047.name'
   - '+.2047.one'
   - '+.2049bbs.xyz'
@@ -1619,10 +1638,15 @@ payload:
   - '+.aes.ac.uk'
   - '+.aesworkshops.com'
   - '+.aex.com'
+<<<<<<< HEAD
   - '+.af-east-201.myhuaweicloud.com'
   - '+.af-north-1.myhuaweicloud.com'
   - '+.af-south-1.myhuaweicloud.com'
   - '+.af-west-202.myhuaweicloud.com'
+=======
+  - '+.af-north-1.myhuaweicloud.com'
+  - '+.af-south-1.myhuaweicloud.com'
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.af.mil'
   - '+.afantibbs.com'
   - '+.afao.ac.uk'
@@ -1916,6 +1940,7 @@ payload:
   - '+.alicejapan.co.jp'
   - '+.alicloud.com'
   - '+.aliengu.com'
+<<<<<<< HEAD
   - '+.alienware.ae'
   - '+.alienware.at'
   - '+.alienware.be'
@@ -1953,6 +1978,8 @@ payload:
   - '+.alienware.ro'
   - '+.alienware.se'
   - '+.alienware.us'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.aliexpress.ru'
   - '+.alihealth.hk'
   - '+.alipay.hk'
@@ -2196,7 +2223,10 @@ payload:
   - '+.amazonaws.tv'
   - '+.amazonbusiness.org'
   - '+.amazonbusinessblog.com'
+<<<<<<< HEAD
   - '+.amazoncognito.com'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.amazondevicesupport.com'
   - '+.amazonfctours.com'
   - '+.amazonianblog.com'
@@ -2457,7 +2487,10 @@ payload:
   - '+.ap-mumbai.tencentcos.cn'
   - '+.ap-mumbai.tencentcos.com'
   - '+.ap-mumbai.tencentcos.com.cn'
+<<<<<<< HEAD
   - '+.ap-northeast-201.myhuaweicloud.com'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.ap-seoul.myqcloud.com'
   - '+.ap-seoul.tencentcos.cn'
   - '+.ap-seoul.tencentcos.com'
@@ -2468,12 +2501,17 @@ payload:
   - '+.ap-singapore.tencentcos.com.cn'
   - '+.ap-southeast-1.myhuaweicloud.com'
   - '+.ap-southeast-2.myhuaweicloud.com'
+<<<<<<< HEAD
   - '+.ap-southeast-201.myhuaweicloud.com'
   - '+.ap-southeast-202.myhuaweicloud.com'
   - '+.ap-southeast-203.myhuaweicloud.com'
   - '+.ap-southeast-3.myhuaweicloud.com'
   - '+.ap-southeast-4.myhuaweicloud.com'
   - '+.ap-southeast-5.myhuaweicloud.com'
+=======
+  - '+.ap-southeast-3.myhuaweicloud.com'
+  - '+.ap-southeast-4.myhuaweicloud.com'
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.ap-tokyo.myqcloud.com'
   - '+.ap-tokyo.tencentcos.cn'
   - '+.ap-tokyo.tencentcos.com'
@@ -2992,10 +3030,13 @@ payload:
   - '+.arxiv.org'
   - '+.arzon.jp'
   - '+.as-hp.ca'
+<<<<<<< HEAD
   - '+.as-south-0.myhuaweicloud.com'
   - '+.as-south-201.myhuaweicloud.com'
   - '+.as-south-205.myhuaweicloud.com'
   - '+.as-south-207.myhuaweicloud.com'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.asacp.org'
   - '+.asagaku.com'
   - '+.asahi.com'
@@ -3481,8 +3522,11 @@ payload:
   - '+.aws'
   - '+.aws-iot-hackathon.com'
   - '+.aws.com'
+<<<<<<< HEAD
   - '+.awsapprunner.com'
   - '+.awsapps.com'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.awsautopilot.com'
   - '+.awsautoscaling.com'
   - '+.awsbraket.com'
@@ -5858,9 +5902,13 @@ payload:
   - '+.bypasscensorship.org'
   - '+.byrut.org'
   - '+.byspotify.com'
+<<<<<<< HEAD
   - '+.byteglb.com'
   - '+.byteoversea.com'
   - '+.byteoversea.net'
+=======
+  - '+.byteoversea.com'
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.bytick.com'
   - '+.byzantine-ahrb-centre.ac.uk'
   - '+.byzantium.ac.uk'
@@ -5878,7 +5926,10 @@ payload:
   - '+.c4ccetl.ac.uk'
   - '+.c4rex.co'
   - '+.c4slive.com'
+<<<<<<< HEAD
   - '+.ca-east-201.myhuaweicloud.com'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.ca.file.myqcloud.com'
   - '+.caacentre.ac.uk'
   - '+.caadoc.ac.uk'
@@ -7379,6 +7430,10 @@ payload:
   - '+.contests.twilio.com'
   - '+.convio.net'
   - '+.convrgencegame.com'
+<<<<<<< HEAD
+=======
+  - '+.cooer.su'
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.cookiechoices.org'
   - '+.cookielaw.org'
   - '+.cookiepro.com'
@@ -7394,8 +7449,11 @@ payload:
   - '+.coolsexnew.com'
   - '+.coolstuffinc.com'
   - '+.coomer.party'
+<<<<<<< HEAD
   - '+.coomer.st'
   - '+.coomer.su'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.coova.com'
   - '+.coova.net'
   - '+.coova.org'
@@ -7405,9 +7463,12 @@ payload:
   - '+.copro.pw'
   - '+.cops.ac.uk'
   - '+.copstat.ac.uk'
+<<<<<<< HEAD
   - '+.copy-manga.com'
   - '+.copy20.com'
   - '+.copy2000.online'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.coqnu.com'
   - '+.corbinfisher.com'
   - '+.cordcloud.org'
@@ -7477,7 +7538,10 @@ payload:
   - '+.cov.ac.uk'
   - '+.covcollege.ac.uk'
   - '+.cove4careinkent.ac.uk'
+<<<<<<< HEAD
   - '+.covenantswatch.org.tw'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.coventry.ac.uk'
   - '+.coventrycollege.ac.uk'
   - '+.coventryuniversity.ac.uk'
@@ -7963,7 +8027,10 @@ payload:
   - '+.data-vocabulary.org'
   - '+.data.ac.uk'
   - '+.data.com'
+<<<<<<< HEAD
   - '+.dataframeworks.com'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.datafuturesalphapilot.ac.uk'
   - '+.datagrid.ac.uk'
   - '+.dataliberation.org'
@@ -8081,8 +8148,11 @@ payload:
   - '+.definefetish.com'
   - '+.degruyter.com'
   - '+.deja.com'
+<<<<<<< HEAD
   - '+.del.com'
   - '+.del.com.br'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.delcam-ams.com'
   - '+.delcam-electrode.com'
   - '+.delcam-na.com'
@@ -8099,6 +8169,7 @@ payload:
   - '+.delicious.com'
   - '+.delicious.com.au'
   - '+.dell'
+<<<<<<< HEAD
   - '+.dell.ac'
   - '+.dell.am'
   - '+.dell.at'
@@ -8254,6 +8325,13 @@ payload:
   - '+.delltechnologies.com'
   - '+.delltechnologiescapital.com'
   - '+.delltechnologiesworld.com'
+=======
+  - '+.dell-brand.com'
+  - '+.dell.com'
+  - '+.dellcdn.com'
+  - '+.dellsupportcenter.com'
+  - '+.delltechnologies.com'
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.deluxe.com.hk'
   - '+.delvenetworks.com'
   - '+.demand.ac.uk'
@@ -8754,6 +8832,10 @@ payload:
   - '+.dnsserver2.de'
   - '+.dnsvisa.com'
   - '+.dnvod.tv'
+<<<<<<< HEAD
+=======
+  - '+.dnvodcdn.me'
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.do.co'
   - '+.dobbyporn.com'
   - '+.dobendan.de'
@@ -8878,7 +8960,10 @@ payload:
   - '+.download.qatp1.net'
   - '+.downloadpass.com'
   - '+.downloadsforipod.com'
+<<<<<<< HEAD
   - '+.dpdns.org'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.dphk.org'
   - '+.dpoc.ac.uk'
   - '+.dpool.top'
@@ -9277,7 +9362,10 @@ payload:
   - '+.earphonescheapest.com'
   - '+.earpod.net'
   - '+.earthcam.com'
+<<<<<<< HEAD
   - '+.earthdell.com'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.earthsciencescotland.ac.uk'
   - '+.earthvpn.com'
   - '+.ease.ac.uk'
@@ -10149,8 +10237,11 @@ payload:
   - '+.etviet.com'
   - '+.etvonline.hk'
   - '+.etwealth.com'
+<<<<<<< HEAD
   - '+.eu-central-201.myhuaweicloud.com'
   - '+.eu-central-202.myhuaweicloud.com'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.eu-consumer-empowerment.com'
   - '+.eu-frankfurt.myqcloud.com'
   - '+.eu-frankfurt.tencentcos.cn'
@@ -10160,11 +10251,16 @@ payload:
   - '+.eu-moscow.tencentcos.cn'
   - '+.eu-moscow.tencentcos.com'
   - '+.eu-moscow.tencentcos.com.cn'
+<<<<<<< HEAD
   - '+.eu-north-201.myhuaweicloud.com'
   - '+.eu-west-0.myhuaweicloud.com'
   - '+.eu-west-1.myhuaweicloud.com'
   - '+.eu-west-101.myhuaweicloud.com'
   - '+.eu-west-201.myhuaweicloud.com'
+=======
+  - '+.eu-west-0.myhuaweicloud.com'
+  - '+.eu-west-101.myhuaweicloud.com'
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.eubluecardvisa.com'
   - '+.eucasino.com'
   - '+.eued.ac.uk'
@@ -11644,8 +11740,11 @@ payload:
   - '+.fuck6teen.com'
   - '+.fuckableteens.net'
   - '+.fuckbookecuador.com'
+<<<<<<< HEAD
   - '+.fuckccp.com'
   - '+.fuckccp.xyz'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.fuckcuck.com'
   - '+.fuckgames.xxx'
   - '+.fuckgfw.org'
@@ -12123,7 +12222,10 @@ payload:
   - '+.ggpht.com'
   - '+.ggsrv.com'
   - '+.ggssl.com'
+<<<<<<< HEAD
   - '+.gh.io'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.ghbi.ir'
   - '+.ghcr.io'
   - '+.ghettotube.com'
@@ -12185,7 +12287,10 @@ payload:
   - '+.git.io'
   - '+.gitbook.com'
   - '+.gitbook.io'
+<<<<<<< HEAD
   - '+.github.ai'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.github.blog'
   - '+.github.com'
   - '+.github.community'
@@ -14321,7 +14426,10 @@ payload:
   - '+.i-book.com'
   - '+.i-book.net'
   - '+.i-cable.com'
+<<<<<<< HEAD
   - '+.i-cablecomm.com'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.i-centralwm.ac.uk'
   - '+.i-lab.ac.uk'
   - '+.i-o-u.info'
@@ -15551,7 +15659,10 @@ payload:
   - '+.itemfix.com'
   - '+.itfromtheinside.com'
   - '+.ithelp.ithome.com.tw'
+<<<<<<< HEAD
   - '+.itiger.com'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.itlearningspace-scot.ac.uk'
   - '+.itnel.com'
   - '+.itnow.ac.uk'
@@ -16256,7 +16367,10 @@ payload:
   - '+.keezmovies.com'
   - '+.keiba.net'
   - '+.keighleycollege.ac.uk'
+<<<<<<< HEAD
   - '+.kemono.cr'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.kemono.party'
   - '+.kemono.su'
   - '+.kendal.ac.uk'
@@ -16534,7 +16648,10 @@ payload:
   - '+.la-forum.org'
   - '+.la-mama.ru'
   - '+.la-north-2.myhuaweicloud.com'
+<<<<<<< HEAD
   - '+.la-north-205.myhuaweicloud.com'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.la-south-2.myhuaweicloud.com'
   - '+.lab.skk.moe'
   - '+.laban.ac.uk'
@@ -16646,7 +16763,10 @@ payload:
   - '+.lbank.info'
   - '+.lbc-northwood.ac.uk'
   - '+.lbc.ac.uk'
+<<<<<<< HEAD
   - '+.lbctrl.com'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.lbfmaddiction.com'
   - '+.lbkrs.com'
   - '+.lboro.ac.uk'
@@ -17195,7 +17315,10 @@ payload:
   - '+.londonstudiocentre.ac.uk'
   - '+.lonestarnaughtygirls.com'
   - '+.longbridge.cloud'
+<<<<<<< HEAD
   - '+.longbridge.com'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.longbridge.global'
   - '+.longbridge.hk'
   - '+.longbridge.sg'
@@ -17611,11 +17734,16 @@ payload:
   - '+.manga-mill.com'
   - '+.manga18.art'
   - '+.mangabz.com'
+<<<<<<< HEAD
   - '+.mangacopy.com'
   - '+.mangafox.com'
   - '+.mangafox.me'
   - '+.mangafuna.xyz'
   - '+.mangafunb.fun'
+=======
+  - '+.mangafox.com'
+  - '+.mangafox.me'
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.mangahasu.se'
   - '+.mangahentai.me'
   - '+.mangahome.com'
@@ -17998,9 +18126,12 @@ payload:
   - '+.mdx.ac.uk'
   - '+.mdyy.de'
   - '+.me-east-1.myhuaweicloud.com'
+<<<<<<< HEAD
   - '+.me-east-205.myhuaweicloud.com'
   - '+.me-east-208.myhuaweicloud.com'
   - '+.me-east-209.myhuaweicloud.com'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.me-gay.com'
   - '+.me.com'
   - '+.me.me'
@@ -19460,7 +19591,10 @@ payload:
   - '+.na-ashburn.tencentcos.com'
   - '+.na-ashburn.tencentcos.com.cn'
   - '+.na-att-idns.net'
+<<<<<<< HEAD
   - '+.na-east-0.myhuaweicloud.com'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.na-me.ac.uk'
   - '+.na-mexico-1.myhuaweicloud.com'
   - '+.na-siliconvalley.myqcloud.com'
@@ -19598,7 +19732,10 @@ payload:
   - '+.navyfamily.navy.mil'
   - '+.navyreserve.navy.mil'
   - '+.naweeklytimes.com'
+<<<<<<< HEAD
   - '+.naydex.net'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.nazarene.ac.uk'
   - '+.nbabot.net'
   - '+.nbc.co'
@@ -21806,7 +21943,10 @@ payload:
   - '+.periscope.tv'
   - '+.perl.org'
   - '+.perplexity.ai'
+<<<<<<< HEAD
   - '+.perplexity.com'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.persagg.com'
   - '+.persecutionblog.com'
   - '+.pershore.ac.uk'
@@ -23774,7 +23914,10 @@ payload:
   - '+.rtings.com'
   - '+.ru-moscow-1.myhuaweicloud.com'
   - '+.ru-northwest-2.myhuaweicloud.com'
+<<<<<<< HEAD
   - '+.ru-northwest-201.myhuaweicloud.com'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.rua-project.ac.uk'
   - '+.ruanyifeng.com'
   - '+.ruby-lang.org'
@@ -23797,8 +23940,11 @@ payload:
   - '+.ruleporn.com'
   - '+.rumah123.com'
   - '+.rumble.com'
+<<<<<<< HEAD
   - '+.rumt-sg.com'
   - '+.rumt-us.com'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.run.app'
   - '+.runbtx.com'
   - '+.runnike.com'
@@ -23868,8 +24014,11 @@ payload:
   - '+.sa-saopaulo.tencentcos.com'
   - '+.sa-saopaulo.tencentcos.com.cn'
   - '+.sa.hao123.com'
+<<<<<<< HEAD
   - '+.saasexch.cc'
   - '+.saasexch.co'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.saasexch.com'
   - '+.saasexch.io'
   - '+.sabuibo.net'
@@ -24741,7 +24890,10 @@ payload:
   - '+.shop-headphones.net'
   - '+.shop.app'
   - '+.shop2000.com.tw'
+<<<<<<< HEAD
   - '+.shopalienware.com'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.shopbeatsdre.com'
   - '+.shopbmwmotorcycles.com'
   - '+.shopbmwusa.com'
@@ -25136,7 +25288,10 @@ payload:
   - '+.sneakme.net'
   - '+.snjulebu.com'
   - '+.snk-corp.co.jp'
+<<<<<<< HEAD
   - '+.snk-corp.info'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.snkplaymore.info'
   - '+.snow.me'
   - '+.snowcorp.com'
@@ -25230,7 +25385,10 @@ payload:
   - '+.solostudioksale.com'
   - '+.solsfc.ac.uk'
   - '+.solutions-worcestershire.ac.uk'
+<<<<<<< HEAD
   - '+.solutionstation.com'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.solv.finance'
   - '+.solveforx.com'
   - '+.somee.com'
@@ -25362,7 +25520,10 @@ payload:
   - '+.soul-plus.net'
   - '+.soulcaliburhentai.net'
   - '+.sound-heritage.ac.uk'
+<<<<<<< HEAD
   - '+.soundcloud.cloud'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.soundcloud.com'
   - '+.soundofhope.eu'
   - '+.soundofhope.kr'
@@ -25985,7 +26146,10 @@ payload:
   - '+.studentvoteregistration.ac.uk'
   - '+.studentvoterregistration.ac.uk'
   - '+.studiobeatsbydrdre.com'
+<<<<<<< HEAD
   - '+.studiodell.com'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.studiofow.com'
   - '+.studiolico.com'
   - '+.studioluxus.com'
@@ -27518,8 +27682,11 @@ payload:
   - '+.tubewolf.com'
   - '+.tubexclips.com'
   - '+.tubi.io'
+<<<<<<< HEAD
   - '+.tubi.tv'
   - '+.tubi.video'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.tubinge.com'
   - '+.tubitv.com'
   - '+.tubsexer.com'
@@ -27845,7 +28012,10 @@ payload:
   - '+.udnbkk.com'
   - '+.udndata.com'
   - '+.udnfunlife.com'
+<<<<<<< HEAD
   - '+.udomain.hk'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.udtrucksmeena.com'
   - '+.uea.ac.uk'
   - '+.ueberamazon.de'
@@ -28139,7 +28309,10 @@ payload:
   - '+.urlgalleries.net'
   - '+.urlparser.com'
   - '+.urukawa.com'
+<<<<<<< HEAD
   - '+.us-east-1.myhuaweicloud.com'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.us.to'
   - '+.us.weibo.com'
   - '+.usa-beatsbydreheadphonesonsale.net'
@@ -28334,7 +28507,10 @@ payload:
   - '+.vaultproject.io'
   - '+.vbejeyv.shop'
   - '+.vcanedge.com'
+<<<<<<< HEAD
   - '+.vce.com'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.vcf-online.org'
   - '+.vcfbuilder.org'
   - '+.vcloudair.net'
@@ -30773,7 +30949,10 @@ payload:
   - '+.yandex.aero'
   - '+.yandex.az'
   - '+.yandex.by'
+<<<<<<< HEAD
   - '+.yandex.cloud'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.yandex.co.il'
   - '+.yandex.com'
   - '+.yandex.com.am'
@@ -30855,7 +31034,10 @@ payload:
   - '+.yespornpleasexxx.com'
   - '+.yeswegays.com'
   - '+.yeyeclub.com'
+<<<<<<< HEAD
   - '+.yfsp.tv'
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - '+.yft-mv.sbs'
   - '+.ygto.com'
   - '+.ygugu4.com'

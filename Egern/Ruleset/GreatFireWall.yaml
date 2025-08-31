@@ -1,5 +1,9 @@
 # 规则名称: GreatFireWall
+<<<<<<< HEAD
 # 规则统计: 5898
+=======
+# 规则统计: 5890
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 
 domain_suffix_set:
   - 000webhost.com
@@ -1135,7 +1139,10 @@ domain_suffix_set:
   - cotweet.com
   - counter.social
   - coursehero.com
+<<<<<<< HEAD
   - covenantswatch.org.tw
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - coze.com
   - cpj.org
   - cpu-monkey.com
@@ -1374,7 +1381,10 @@ domain_suffix_set:
   - doujincafe.com
   - download.aircrack-ng.org
   - download.cnet.com
+<<<<<<< HEAD
   - dpdns.org
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - dphk.org
   - dpool.top
   - dpp.org.tw
@@ -1685,7 +1695,10 @@ domain_suffix_set:
   - fdc89.jp
   - feedburner.com
   - feeder.co
+<<<<<<< HEAD
   - feedly.com
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - feeds.fileforum.com
   - feedx.net
   - feelssh.com
@@ -1858,8 +1871,11 @@ domain_suffix_set:
   - ftx.com
   - fucd.com
   - fuchsia.dev
+<<<<<<< HEAD
   - fuckccp.com
   - fuckccp.xyz
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - fuckgfw.org
   - fulione.com
   - fullerconsideration.com
@@ -2757,7 +2773,10 @@ domain_suffix_set:
   - itemdb.com
   - itemfix.com
   - ithelp.ithome.com.tw
+<<<<<<< HEAD
   - itiger.com
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - itsaol.com
   - itshidden.com
   - itsky.it
@@ -3316,7 +3335,10 @@ domain_suffix_set:
   - mog.com
   - mohu.club
   - mohu.rocks
+<<<<<<< HEAD
   - moj.gov.tw
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - mojim.com
   - mol.gov.tw
   - molihua.org
@@ -5159,7 +5181,10 @@ domain_suffix_set:
   - udn.com
   - udn.com.tw
   - udnbkk.com
+<<<<<<< HEAD
   - udomain.hk
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - uforadio.com.tw
   - ufreevpn.com
   - ugo.com

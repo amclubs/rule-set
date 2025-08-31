@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "version": 3,
+=======
+  "version": 2,
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   "rules": [
     {
       "domain_keyword": [

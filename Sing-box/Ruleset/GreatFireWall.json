@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "version": 3,
+=======
+  "version": 2,
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   "rules": [
     {
       "domain_suffix": [
@@ -1136,7 +1140,10 @@
         "cotweet.com",
         "counter.social",
         "coursehero.com",
+<<<<<<< HEAD
         "covenantswatch.org.tw",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "coze.com",
         "cpj.org",
         "cpu-monkey.com",
@@ -1375,7 +1382,10 @@
         "doujincafe.com",
         "download.aircrack-ng.org",
         "download.cnet.com",
+<<<<<<< HEAD
         "dpdns.org",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "dphk.org",
         "dpool.top",
         "dpp.org.tw",
@@ -1686,7 +1696,10 @@
         "fdc89.jp",
         "feedburner.com",
         "feeder.co",
+<<<<<<< HEAD
         "feedly.com",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "feeds.fileforum.com",
         "feedx.net",
         "feelssh.com",
@@ -1859,8 +1872,11 @@
         "ftx.com",
         "fucd.com",
         "fuchsia.dev",
+<<<<<<< HEAD
         "fuckccp.com",
         "fuckccp.xyz",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "fuckgfw.org",
         "fulione.com",
         "fullerconsideration.com",
@@ -2758,7 +2774,10 @@
         "itemdb.com",
         "itemfix.com",
         "ithelp.ithome.com.tw",
+<<<<<<< HEAD
         "itiger.com",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "itsaol.com",
         "itshidden.com",
         "itsky.it",
@@ -3317,7 +3336,10 @@
         "mog.com",
         "mohu.club",
         "mohu.rocks",
+<<<<<<< HEAD
         "moj.gov.tw",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "mojim.com",
         "mol.gov.tw",
         "molihua.org",
@@ -5160,7 +5182,10 @@
         "udn.com",
         "udn.com.tw",
         "udnbkk.com",
+<<<<<<< HEAD
         "udomain.hk",
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
         "uforadio.com.tw",
         "ufreevpn.com",
         "ugo.com",

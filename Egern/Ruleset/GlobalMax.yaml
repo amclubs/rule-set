@@ -1,5 +1,9 @@
 # 规则名称: GlobalMax
+<<<<<<< HEAD
 # 规则统计: 32096
+=======
+# 规则统计: 31837
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 
 no_resolve: true
 domain_set:
@@ -343,7 +347,10 @@ domain_suffix_set:
   - 2021hkcharter.com
   - 2022.dev
   - 2023aga.oen.tw
+<<<<<<< HEAD
   - 2025copy.com
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - 2047.name
   - 2047.one
   - 2049bbs.xyz
@@ -1181,9 +1188,13 @@ domain_suffix_set:
   - aes.ac.uk
   - aesworkshops.com
   - aex.com
+<<<<<<< HEAD
   - af-east-201.myhuaweicloud.com
   - af-north-1.myhuaweicloud.com
   - af-west-202.myhuaweicloud.com
+=======
+  - af-north-1.myhuaweicloud.com
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - af.mil
   - afantibbs.com
   - afao.ac.uk
@@ -1477,6 +1488,7 @@ domain_suffix_set:
   - aliaswavefront.com
   - alicejapan.co.jp
   - aliengu.com
+<<<<<<< HEAD
   - alienware.ae
   - alienware.at
   - alienware.be
@@ -1514,6 +1526,8 @@ domain_suffix_set:
   - alienware.ro
   - alienware.se
   - alienware.us
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - alis-wales.ac.uk
   - alive.bar
   - aliveipc.com
@@ -1757,7 +1771,10 @@ domain_suffix_set:
   - amazonaws.tv
   - amazonbusiness.org
   - amazonbusinessblog.com
+<<<<<<< HEAD
   - amazoncognito.com
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - amazondevicesupport.com
   - amazonfctours.com
   - amazonianblog.com
@@ -2023,16 +2040,23 @@ domain_suffix_set:
   - ap-jakarta.tencentcos.com
   - ap-mumbai.myqcloud.com
   - ap-mumbai.tencentcos.com
+<<<<<<< HEAD
   - ap-northeast-201.myhuaweicloud.com
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - ap-seoul.myqcloud.com
   - ap-seoul.tencentcos.com
   - ap-singapore.myqcloud.com
   - ap-singapore.tencentcos.com
+<<<<<<< HEAD
   - ap-southeast-201.myhuaweicloud.com
   - ap-southeast-202.myhuaweicloud.com
   - ap-southeast-203.myhuaweicloud.com
   - ap-southeast-4.myhuaweicloud.com
   - ap-southeast-5.myhuaweicloud.com
+=======
+  - ap-southeast-4.myhuaweicloud.com
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - ap-tokyo.myqcloud.com
   - ap-tokyo.tencentcos.com
   - ap.org
@@ -2554,10 +2578,13 @@ domain_suffix_set:
   - arxiv.org
   - arzon.jp
   - as-hp.ca
+<<<<<<< HEAD
   - as-south-0.myhuaweicloud.com
   - as-south-201.myhuaweicloud.com
   - as-south-205.myhuaweicloud.com
   - as-south-207.myhuaweicloud.com
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - asacp.org
   - asagaku.com
   - asahi.com
@@ -3047,8 +3074,11 @@ domain_suffix_set:
   - awlc.ac.uk
   - aws-iot-hackathon.com
   - aws.com
+<<<<<<< HEAD
   - awsapprunner.com
   - awsapps.com
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - awsautopilot.com
   - awsautoscaling.com
   - awsbraket.com
@@ -5436,9 +5466,13 @@ domain_suffix_set:
   - bypasscensorship.org
   - byrut.org
   - byspotify.com
+<<<<<<< HEAD
   - byteglb.com
   - byteoversea.com
   - byteoversea.net
+=======
+  - byteoversea.com
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - bytick.com
   - byzantine-ahrb-centre.ac.uk
   - byzantium.ac.uk
@@ -5458,7 +5492,10 @@ domain_suffix_set:
   - c4ccetl.ac.uk
   - c4rex.co
   - c4slive.com
+<<<<<<< HEAD
   - ca-east-201.myhuaweicloud.com
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - ca.file.myqcloud.com
   - caacentre.ac.uk
   - caadoc.ac.uk
@@ -6981,8 +7018,11 @@ domain_suffix_set:
   - coolsexnew.com
   - coolstuffinc.com
   - coomer.party
+<<<<<<< HEAD
   - coomer.st
   - coomer.su
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - coova.com
   - coova.net
   - coova.org
@@ -6992,9 +7032,12 @@ domain_suffix_set:
   - copro.pw
   - cops.ac.uk
   - copstat.ac.uk
+<<<<<<< HEAD
   - copy-manga.com
   - copy20.com
   - copy2000.online
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - coqnu.com
   - corbinfisher.com
   - cordcloud.org
@@ -7064,7 +7107,10 @@ domain_suffix_set:
   - cov.ac.uk
   - covcollege.ac.uk
   - cove4careinkent.ac.uk
+<<<<<<< HEAD
   - covenantswatch.org.tw
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - coventry.ac.uk
   - coventrycollege.ac.uk
   - coventryuniversity.ac.uk
@@ -7565,7 +7611,10 @@ domain_suffix_set:
   - data.com
   - data.flurry.com
   - data.gov.tw
+<<<<<<< HEAD
   - dataframeworks.com
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - datafuturesalphapilot.ac.uk
   - datagrid.ac.uk
   - datalabour.com
@@ -7682,8 +7731,11 @@ domain_suffix_set:
   - degruyter.com
   - deiightfuidates.net
   - deja.com
+<<<<<<< HEAD
   - del.com
   - del.com.br
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - delcam-ams.com
   - delcam-electrode.com
   - delcam-na.com
@@ -7699,6 +7751,7 @@ domain_suffix_set:
   - delcamusa.com
   - delicious.com
   - delicious.com.au
+<<<<<<< HEAD
   - dell.ac
   - dell.am
   - dell.at
@@ -7853,6 +7906,13 @@ domain_suffix_set:
   - delltechnologies.com
   - delltechnologiescapital.com
   - delltechnologiesworld.com
+=======
+  - dell-brand.com
+  - dell.com
+  - dellcdn.com
+  - dellsupportcenter.com
+  - delltechnologies.com
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - deluxe.com.hk
   - delvenetworks.com
   - demand.ac.uk
@@ -7872,7 +7932,10 @@ domain_suffix_set:
   - dengeamerika.com
   - dengiamerika.com
   - deno.com
+<<<<<<< HEAD
   - deno.dev
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - deno.land
   - dentalhypotheses.com
   - dentalschoolscouncil.ac.uk
@@ -8940,7 +9003,10 @@ domain_suffix_set:
   - earphonescheapest.com
   - earpod.net
   - earthcam.com
+<<<<<<< HEAD
   - earthdell.com
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - earthsciencescotland.ac.uk
   - earthvpn.com
   - ease.ac.uk
@@ -9831,17 +9897,24 @@ domain_suffix_set:
   - etviet.com
   - etvonline.hk
   - etwealth.com
+<<<<<<< HEAD
   - eu-central-201.myhuaweicloud.com
   - eu-central-202.myhuaweicloud.com
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - eu-consumer-empowerment.com
   - eu-frankfurt.myqcloud.com
   - eu-frankfurt.tencentcos.com
   - eu-moscow.myqcloud.com
   - eu-moscow.tencentcos.com
+<<<<<<< HEAD
   - eu-north-201.myhuaweicloud.com
   - eu-west-1.myhuaweicloud.com
   - eu-west-101.myhuaweicloud.com
   - eu-west-201.myhuaweicloud.com
+=======
+  - eu-west-101.myhuaweicloud.com
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - eu.org
   - eubluecardvisa.com
   - eucasino.com
@@ -11394,8 +11467,11 @@ domain_suffix_set:
   - fuck6teen.com
   - fuckableteens.net
   - fuckbookecuador.com
+<<<<<<< HEAD
   - fuckccp.com
   - fuckccp.xyz
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - fuckcnnic.net
   - fuckcuck.com
   - fuckgames.xxx
@@ -11465,7 +11541,10 @@ domain_suffix_set:
   - furinkan.com
   - furl.net
   - furness.ac.uk
+<<<<<<< HEAD
   - furrybar.com
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - furrypornvideos.com
   - furuke.com
   - fury.blog
@@ -11909,7 +11988,10 @@ domain_suffix_set:
   - ggpht.com
   - ggsrv.com
   - ggssl.com
+<<<<<<< HEAD
   - gh.io
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - ghanely.me
   - ghbi.ir
   - ghcr.io
@@ -11977,7 +12059,10 @@ domain_suffix_set:
   - gitbook.io
   - gitbooks.io
   - githack.com
+<<<<<<< HEAD
   - github.ai
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - github.blog
   - github.com
   - github.community
@@ -14192,7 +14277,10 @@ domain_suffix_set:
   - i-book.com
   - i-book.net
   - i-cable.com
+<<<<<<< HEAD
   - i-cablecomm.com
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - i-centralwm.ac.uk
   - i-lab.ac.uk
   - i-o-u.info
@@ -15430,7 +15518,10 @@ domain_suffix_set:
   - itgonglun.com
   - ithaisex.com
   - ithome.com.tw
+<<<<<<< HEAD
   - itiger.com
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - itlearningspace-scot.ac.uk
   - itnel.com
   - itnow.ac.uk
@@ -16181,7 +16272,10 @@ domain_suffix_set:
   - keezmovies.com
   - keiba.net
   - keighleycollege.ac.uk
+<<<<<<< HEAD
   - kemono.cr
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - kemono.party
   - kemono.su
   - kendal.ac.uk
@@ -16471,7 +16565,10 @@ domain_suffix_set:
   - l-msedge.net
   - la-forum.org
   - la-mama.ru
+<<<<<<< HEAD
   - la-north-205.myhuaweicloud.com
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - laban.ac.uk
   - labiennale.org
   - labinacell.ac.uk
@@ -17157,7 +17254,10 @@ domain_suffix_set:
   - londonstudiocentre.ac.uk
   - lonestarnaughtygirls.com
   - longbridge.cloud
+<<<<<<< HEAD
   - longbridge.com
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - longbridge.global
   - longbridge.hk
   - longbridge.sg
@@ -17590,10 +17690,15 @@ domain_suffix_set:
   - manga-mill.com
   - manga18.art
   - mangabz.com
+<<<<<<< HEAD
   - mangacopy.com
   - mangafox.com
   - mangafox.me
   - mangafunb.fun
+=======
+  - mangafox.com
+  - mangafox.me
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - mangahasu.se
   - mangahentai.me
   - mangahome.com
@@ -17984,9 +18089,12 @@ domain_suffix_set:
   - mdx.ac.uk
   - mdyy.de
   - me-east-1.myhuaweicloud.com
+<<<<<<< HEAD
   - me-east-205.myhuaweicloud.com
   - me-east-208.myhuaweicloud.com
   - me-east-209.myhuaweicloud.com
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - me-gay.com
   - me.me
   - meadjohnson.com
@@ -18832,7 +18940,10 @@ domain_suffix_set:
   - mohu.ml
   - mohu.rocks
   - moidigital.ac.uk
+<<<<<<< HEAD
   - moj.gov.tw
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - mojang.com
   - mojim.com
   - mol.ac.uk
@@ -19049,7 +19160,10 @@ domain_suffix_set:
   - moviesneek.com
   - movinghistory.ac.uk
   - movingmedicine.ac.uk
+<<<<<<< HEAD
   - mox.moe
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - moxing.mobi
   - moxing.news
   - moystoys.com
@@ -19427,7 +19541,10 @@ domain_suffix_set:
   - mypearsonshop.mx
   - mypicture.info
   - mypikpak.com
+<<<<<<< HEAD
   - mypikpak.net
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - myplace.ac.uk
   - mypop3.net
   - mypop3.org
@@ -19505,7 +19622,10 @@ domain_suffix_set:
   - na-ashburn.myqcloud.com
   - na-ashburn.tencentcos.com
   - na-att-idns.net
+<<<<<<< HEAD
   - na-east-0.myhuaweicloud.com
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - na-me.ac.uk
   - na-siliconvalley.myqcloud.com
   - na-siliconvalley.tencentcos.com
@@ -19643,7 +19763,10 @@ domain_suffix_set:
   - navisworks.net
   - navy.mil
   - naweeklytimes.com
+<<<<<<< HEAD
   - naydex.net
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - nazarene.ac.uk
   - nbabot.net
   - nbc.co
@@ -21917,7 +22040,10 @@ domain_suffix_set:
   - periscope.tv
   - perl.org
   - perplexity.ai
+<<<<<<< HEAD
   - perplexity.com
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - persagg.com
   - persecutionblog.com
   - pershore.ac.uk
@@ -23984,7 +24110,10 @@ domain_suffix_set:
   - rtings.com
   - rtycminnesota.org
   - ru-moscow-1.myhuaweicloud.com
+<<<<<<< HEAD
   - ru-northwest-201.myhuaweicloud.com
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - rua-project.ac.uk
   - ruanyifeng.com
   - ruby-lang.org
@@ -24010,8 +24139,11 @@ domain_suffix_set:
   - rumah123.com
   - rumble.com
   - rumporn.com
+<<<<<<< HEAD
   - rumt-sg.com
   - rumt-us.com
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - run.app
   - runbtx.com
   - rundf665.cyou
@@ -24082,8 +24214,11 @@ domain_suffix_set:
   - sa-saopaulo.tencentcos.com
   - sa.com
   - sa.hao123.com
+<<<<<<< HEAD
   - saasexch.cc
   - saasexch.co
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - saasexch.com
   - saasexch.io
   - saboom.com
@@ -24983,7 +25118,10 @@ domain_suffix_set:
   - shop-headphones.net
   - shop.app
   - shop2000.com.tw
+<<<<<<< HEAD
   - shopalienware.com
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - shopbeatsdre.com
   - shopbmwmotorcycles.com
   - shopbmwusa.com
@@ -25397,7 +25535,10 @@ domain_suffix_set:
   - sneakme.net
   - snjulebu.com
   - snk-corp.co.jp
+<<<<<<< HEAD
   - snk-corp.info
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - snkplaymore.info
   - snow.me
   - snowcorp.com
@@ -25495,7 +25636,10 @@ domain_suffix_set:
   - solostudioksale.com
   - solsfc.ac.uk
   - solutions-worcestershire.ac.uk
+<<<<<<< HEAD
   - solutionstation.com
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - solv.finance
   - solveforx.com
   - somanylolies.com
@@ -25633,7 +25777,10 @@ domain_suffix_set:
   - soulcaliburhentai.net
   - soumo.info
   - sound-heritage.ac.uk
+<<<<<<< HEAD
   - soundcloud.cloud
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - soundcloud.com
   - soundofhope.eu
   - soundofhope.kr
@@ -26260,7 +26407,10 @@ domain_suffix_set:
   - studentvoteregistration.ac.uk
   - studentvoterregistration.ac.uk
   - studiobeatsbydrdre.com
+<<<<<<< HEAD
   - studiodell.com
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - studiofow.com
   - studiolico.com
   - studioluxus.com
@@ -27868,8 +28018,11 @@ domain_suffix_set:
   - tubewolf.com
   - tubexclips.com
   - tubi.io
+<<<<<<< HEAD
   - tubi.tv
   - tubi.video
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - tubinge.com
   - tubitv.com
   - tubous.com
@@ -28234,7 +28387,10 @@ domain_suffix_set:
   - udnbkk.com
   - udndata.com
   - udnfunlife.com
+<<<<<<< HEAD
   - udomain.hk
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - udtrucksmeena.com
   - uea.ac.uk
   - ueberamazon.de
@@ -28546,7 +28702,10 @@ domain_suffix_set:
   - urlgalleries.net
   - urlparser.com
   - urukawa.com
+<<<<<<< HEAD
   - us-east-1.myhuaweicloud.com
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - us.to
   - us.weibo.com
   - usa-beatsbydreheadphonesonsale.net
@@ -28753,7 +28912,10 @@ domain_suffix_set:
   - vbejeyv.shop
   - vbstatic.co
   - vcanedge.com
+<<<<<<< HEAD
   - vce.com
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - vcf-online.org
   - vcfbuilder.org
   - vcloudair.net
@@ -29372,7 +29534,10 @@ domain_suffix_set:
   - voicettank.org
   - voila.ac.uk
   - vokevr.com
+<<<<<<< HEAD
   - vol.moe
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - volstudy.ac.uk
   - volvo-truck.nl
   - volvo.ca
@@ -31212,7 +31377,10 @@ domain_suffix_set:
   - yandex.aero
   - yandex.az
   - yandex.by
+<<<<<<< HEAD
   - yandex.cloud
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - yandex.co.il
   - yandex.com
   - yandex.com.am
@@ -31297,7 +31465,10 @@ domain_suffix_set:
   - yeyuehuachao11.com
   - yeyuehuachao12.com
   - yeyuehuachao13.com
+<<<<<<< HEAD
   - yfsp.tv
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - yft-mv.sbs
   - ygto.com
   - ygugu4.com

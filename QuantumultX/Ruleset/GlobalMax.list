@@ -1,5 +1,9 @@
 # 规则名称: GlobalMax
+<<<<<<< HEAD
 # 规则统计: 32096
+=======
+# 规则统计: 31837
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 
 HOST,1password.drift.click,GlobalMax
 HOST,adobeereg.com,GlobalMax
@@ -340,7 +344,10 @@ HOST-SUFFIX,2019baidu.xyz,GlobalMax
 HOST-SUFFIX,2021hkcharter.com,GlobalMax
 HOST-SUFFIX,2022.dev,GlobalMax
 HOST-SUFFIX,2023aga.oen.tw,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,2025copy.com,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,2047.name,GlobalMax
 HOST-SUFFIX,2047.one,GlobalMax
 HOST-SUFFIX,2049bbs.xyz,GlobalMax
@@ -1178,9 +1185,13 @@ HOST-SUFFIX,aerospace-training-wales.ac.uk,GlobalMax
 HOST-SUFFIX,aes.ac.uk,GlobalMax
 HOST-SUFFIX,aesworkshops.com,GlobalMax
 HOST-SUFFIX,aex.com,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,af-east-201.myhuaweicloud.com,GlobalMax
 HOST-SUFFIX,af-north-1.myhuaweicloud.com,GlobalMax
 HOST-SUFFIX,af-west-202.myhuaweicloud.com,GlobalMax
+=======
+HOST-SUFFIX,af-north-1.myhuaweicloud.com,GlobalMax
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,af.mil,GlobalMax
 HOST-SUFFIX,afantibbs.com,GlobalMax
 HOST-SUFFIX,afao.ac.uk,GlobalMax
@@ -1474,6 +1485,7 @@ HOST-SUFFIX,aliasvisualizationstudio.com,GlobalMax
 HOST-SUFFIX,aliaswavefront.com,GlobalMax
 HOST-SUFFIX,alicejapan.co.jp,GlobalMax
 HOST-SUFFIX,aliengu.com,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,alienware.ae,GlobalMax
 HOST-SUFFIX,alienware.at,GlobalMax
 HOST-SUFFIX,alienware.be,GlobalMax
@@ -1511,6 +1523,8 @@ HOST-SUFFIX,alienware.ps,GlobalMax
 HOST-SUFFIX,alienware.ro,GlobalMax
 HOST-SUFFIX,alienware.se,GlobalMax
 HOST-SUFFIX,alienware.us,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,alis-wales.ac.uk,GlobalMax
 HOST-SUFFIX,alive.bar,GlobalMax
 HOST-SUFFIX,aliveipc.com,GlobalMax
@@ -1754,7 +1768,10 @@ HOST-SUFFIX,amazonaws.org,GlobalMax
 HOST-SUFFIX,amazonaws.tv,GlobalMax
 HOST-SUFFIX,amazonbusiness.org,GlobalMax
 HOST-SUFFIX,amazonbusinessblog.com,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,amazoncognito.com,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,amazondevicesupport.com,GlobalMax
 HOST-SUFFIX,amazonfctours.com,GlobalMax
 HOST-SUFFIX,amazonianblog.com,GlobalMax
@@ -2020,16 +2037,23 @@ HOST-SUFFIX,ap-jakarta.myqcloud.com,GlobalMax
 HOST-SUFFIX,ap-jakarta.tencentcos.com,GlobalMax
 HOST-SUFFIX,ap-mumbai.myqcloud.com,GlobalMax
 HOST-SUFFIX,ap-mumbai.tencentcos.com,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,ap-northeast-201.myhuaweicloud.com,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,ap-seoul.myqcloud.com,GlobalMax
 HOST-SUFFIX,ap-seoul.tencentcos.com,GlobalMax
 HOST-SUFFIX,ap-singapore.myqcloud.com,GlobalMax
 HOST-SUFFIX,ap-singapore.tencentcos.com,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,ap-southeast-201.myhuaweicloud.com,GlobalMax
 HOST-SUFFIX,ap-southeast-202.myhuaweicloud.com,GlobalMax
 HOST-SUFFIX,ap-southeast-203.myhuaweicloud.com,GlobalMax
 HOST-SUFFIX,ap-southeast-4.myhuaweicloud.com,GlobalMax
 HOST-SUFFIX,ap-southeast-5.myhuaweicloud.com,GlobalMax
+=======
+HOST-SUFFIX,ap-southeast-4.myhuaweicloud.com,GlobalMax
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,ap-tokyo.myqcloud.com,GlobalMax
 HOST-SUFFIX,ap-tokyo.tencentcos.com,GlobalMax
 HOST-SUFFIX,ap.org,GlobalMax
@@ -2551,10 +2575,13 @@ HOST-SUFFIX,arvanstorage.ir,GlobalMax
 HOST-SUFFIX,arxiv.org,GlobalMax
 HOST-SUFFIX,arzon.jp,GlobalMax
 HOST-SUFFIX,as-hp.ca,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,as-south-0.myhuaweicloud.com,GlobalMax
 HOST-SUFFIX,as-south-201.myhuaweicloud.com,GlobalMax
 HOST-SUFFIX,as-south-205.myhuaweicloud.com,GlobalMax
 HOST-SUFFIX,as-south-207.myhuaweicloud.com,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,asacp.org,GlobalMax
 HOST-SUFFIX,asagaku.com,GlobalMax
 HOST-SUFFIX,asahi.com,GlobalMax
@@ -3044,8 +3071,11 @@ HOST-SUFFIX,awjq.cc,GlobalMax
 HOST-SUFFIX,awlc.ac.uk,GlobalMax
 HOST-SUFFIX,aws-iot-hackathon.com,GlobalMax
 HOST-SUFFIX,aws.com,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,awsapprunner.com,GlobalMax
 HOST-SUFFIX,awsapps.com,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,awsautopilot.com,GlobalMax
 HOST-SUFFIX,awsautoscaling.com,GlobalMax
 HOST-SUFFIX,awsbraket.com,GlobalMax
@@ -5433,9 +5463,13 @@ HOST-SUFFIX,bynet.co.il,GlobalMax
 HOST-SUFFIX,bypasscensorship.org,GlobalMax
 HOST-SUFFIX,byrut.org,GlobalMax
 HOST-SUFFIX,byspotify.com,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,byteglb.com,GlobalMax
 HOST-SUFFIX,byteoversea.com,GlobalMax
 HOST-SUFFIX,byteoversea.net,GlobalMax
+=======
+HOST-SUFFIX,byteoversea.com,GlobalMax
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,bytick.com,GlobalMax
 HOST-SUFFIX,byzantine-ahrb-centre.ac.uk,GlobalMax
 HOST-SUFFIX,byzantium.ac.uk,GlobalMax
@@ -5455,7 +5489,10 @@ HOST-SUFFIX,c4assets.com,GlobalMax
 HOST-SUFFIX,c4ccetl.ac.uk,GlobalMax
 HOST-SUFFIX,c4rex.co,GlobalMax
 HOST-SUFFIX,c4slive.com,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,ca-east-201.myhuaweicloud.com,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,ca.file.myqcloud.com,GlobalMax
 HOST-SUFFIX,caacentre.ac.uk,GlobalMax
 HOST-SUFFIX,caadoc.ac.uk,GlobalMax
@@ -6978,8 +7015,11 @@ HOST-SUFFIX,coolncute.com,GlobalMax
 HOST-SUFFIX,coolsexnew.com,GlobalMax
 HOST-SUFFIX,coolstuffinc.com,GlobalMax
 HOST-SUFFIX,coomer.party,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,coomer.st,GlobalMax
 HOST-SUFFIX,coomer.su,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,coova.com,GlobalMax
 HOST-SUFFIX,coova.net,GlobalMax
 HOST-SUFFIX,coova.org,GlobalMax
@@ -6989,9 +7029,12 @@ HOST-SUFFIX,copior.ac.uk,GlobalMax
 HOST-SUFFIX,copro.pw,GlobalMax
 HOST-SUFFIX,cops.ac.uk,GlobalMax
 HOST-SUFFIX,copstat.ac.uk,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,copy-manga.com,GlobalMax
 HOST-SUFFIX,copy20.com,GlobalMax
 HOST-SUFFIX,copy2000.online,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,coqnu.com,GlobalMax
 HOST-SUFFIX,corbinfisher.com,GlobalMax
 HOST-SUFFIX,cordcloud.org,GlobalMax
@@ -7061,7 +7104,10 @@ HOST-SUFFIX,courtauld.ac.uk,GlobalMax
 HOST-SUFFIX,cov.ac.uk,GlobalMax
 HOST-SUFFIX,covcollege.ac.uk,GlobalMax
 HOST-SUFFIX,cove4careinkent.ac.uk,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,covenantswatch.org.tw,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,coventry.ac.uk,GlobalMax
 HOST-SUFFIX,coventrycollege.ac.uk,GlobalMax
 HOST-SUFFIX,coventryuniversity.ac.uk,GlobalMax
@@ -7562,7 +7608,10 @@ HOST-SUFFIX,data.ac.uk,GlobalMax
 HOST-SUFFIX,data.com,GlobalMax
 HOST-SUFFIX,data.flurry.com,GlobalMax
 HOST-SUFFIX,data.gov.tw,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,dataframeworks.com,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,datafuturesalphapilot.ac.uk,GlobalMax
 HOST-SUFFIX,datagrid.ac.uk,GlobalMax
 HOST-SUFFIX,datalabour.com,GlobalMax
@@ -7679,8 +7728,11 @@ HOST-SUFFIX,definefetish.com,GlobalMax
 HOST-SUFFIX,degruyter.com,GlobalMax
 HOST-SUFFIX,deiightfuidates.net,GlobalMax
 HOST-SUFFIX,deja.com,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,del.com,GlobalMax
 HOST-SUFFIX,del.com.br,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,delcam-ams.com,GlobalMax
 HOST-SUFFIX,delcam-electrode.com,GlobalMax
 HOST-SUFFIX,delcam-na.com,GlobalMax
@@ -7696,6 +7748,7 @@ HOST-SUFFIX,delcamuniversity.com,GlobalMax
 HOST-SUFFIX,delcamusa.com,GlobalMax
 HOST-SUFFIX,delicious.com,GlobalMax
 HOST-SUFFIX,delicious.com.au,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,dell.ac,GlobalMax
 HOST-SUFFIX,dell.am,GlobalMax
 HOST-SUFFIX,dell.at,GlobalMax
@@ -7850,6 +7903,13 @@ HOST-SUFFIX,delltechcenter.com,GlobalMax
 HOST-SUFFIX,delltechnologies.com,GlobalMax
 HOST-SUFFIX,delltechnologiescapital.com,GlobalMax
 HOST-SUFFIX,delltechnologiesworld.com,GlobalMax
+=======
+HOST-SUFFIX,dell-brand.com,GlobalMax
+HOST-SUFFIX,dell.com,GlobalMax
+HOST-SUFFIX,dellcdn.com,GlobalMax
+HOST-SUFFIX,dellsupportcenter.com,GlobalMax
+HOST-SUFFIX,delltechnologies.com,GlobalMax
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,deluxe.com.hk,GlobalMax
 HOST-SUFFIX,delvenetworks.com,GlobalMax
 HOST-SUFFIX,demand.ac.uk,GlobalMax
@@ -7869,7 +7929,10 @@ HOST-SUFFIX,den.ac.uk,GlobalMax
 HOST-SUFFIX,dengeamerika.com,GlobalMax
 HOST-SUFFIX,dengiamerika.com,GlobalMax
 HOST-SUFFIX,deno.com,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,deno.dev,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,deno.land,GlobalMax
 HOST-SUFFIX,dentalhypotheses.com,GlobalMax
 HOST-SUFFIX,dentalschoolscouncil.ac.uk,GlobalMax
@@ -8937,7 +9000,10 @@ HOST-SUFFIX,earngeek.com,GlobalMax
 HOST-SUFFIX,earphonescheapest.com,GlobalMax
 HOST-SUFFIX,earpod.net,GlobalMax
 HOST-SUFFIX,earthcam.com,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,earthdell.com,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,earthsciencescotland.ac.uk,GlobalMax
 HOST-SUFFIX,earthvpn.com,GlobalMax
 HOST-SUFFIX,ease.ac.uk,GlobalMax
@@ -9828,17 +9894,24 @@ HOST-SUFFIX,ettrade.com.hk,GlobalMax
 HOST-SUFFIX,etviet.com,GlobalMax
 HOST-SUFFIX,etvonline.hk,GlobalMax
 HOST-SUFFIX,etwealth.com,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,eu-central-201.myhuaweicloud.com,GlobalMax
 HOST-SUFFIX,eu-central-202.myhuaweicloud.com,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,eu-consumer-empowerment.com,GlobalMax
 HOST-SUFFIX,eu-frankfurt.myqcloud.com,GlobalMax
 HOST-SUFFIX,eu-frankfurt.tencentcos.com,GlobalMax
 HOST-SUFFIX,eu-moscow.myqcloud.com,GlobalMax
 HOST-SUFFIX,eu-moscow.tencentcos.com,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,eu-north-201.myhuaweicloud.com,GlobalMax
 HOST-SUFFIX,eu-west-1.myhuaweicloud.com,GlobalMax
 HOST-SUFFIX,eu-west-101.myhuaweicloud.com,GlobalMax
 HOST-SUFFIX,eu-west-201.myhuaweicloud.com,GlobalMax
+=======
+HOST-SUFFIX,eu-west-101.myhuaweicloud.com,GlobalMax
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,eu.org,GlobalMax
 HOST-SUFFIX,eubluecardvisa.com,GlobalMax
 HOST-SUFFIX,eucasino.com,GlobalMax
@@ -11391,8 +11464,11 @@ HOST-SUFFIX,fuck55.net,GlobalMax
 HOST-SUFFIX,fuck6teen.com,GlobalMax
 HOST-SUFFIX,fuckableteens.net,GlobalMax
 HOST-SUFFIX,fuckbookecuador.com,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,fuckccp.com,GlobalMax
 HOST-SUFFIX,fuckccp.xyz,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,fuckcnnic.net,GlobalMax
 HOST-SUFFIX,fuckcuck.com,GlobalMax
 HOST-SUFFIX,fuckgames.xxx,GlobalMax
@@ -11462,7 +11538,10 @@ HOST-SUFFIX,furhhdl.org,GlobalMax
 HOST-SUFFIX,furinkan.com,GlobalMax
 HOST-SUFFIX,furl.net,GlobalMax
 HOST-SUFFIX,furness.ac.uk,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,furrybar.com,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,furrypornvideos.com,GlobalMax
 HOST-SUFFIX,furuke.com,GlobalMax
 HOST-SUFFIX,fury.blog,GlobalMax
@@ -11906,7 +11985,10 @@ HOST-SUFFIX,ggpds.com,GlobalMax
 HOST-SUFFIX,ggpht.com,GlobalMax
 HOST-SUFFIX,ggsrv.com,GlobalMax
 HOST-SUFFIX,ggssl.com,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,gh.io,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,ghanely.me,GlobalMax
 HOST-SUFFIX,ghbi.ir,GlobalMax
 HOST-SUFFIX,ghcr.io,GlobalMax
@@ -11974,7 +12056,10 @@ HOST-SUFFIX,gitbook.com,GlobalMax
 HOST-SUFFIX,gitbook.io,GlobalMax
 HOST-SUFFIX,gitbooks.io,GlobalMax
 HOST-SUFFIX,githack.com,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,github.ai,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,github.blog,GlobalMax
 HOST-SUFFIX,github.com,GlobalMax
 HOST-SUFFIX,github.community,GlobalMax
@@ -14189,7 +14274,10 @@ HOST-SUFFIX,i-123-hp.com,GlobalMax
 HOST-SUFFIX,i-book.com,GlobalMax
 HOST-SUFFIX,i-book.net,GlobalMax
 HOST-SUFFIX,i-cable.com,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,i-cablecomm.com,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,i-centralwm.ac.uk,GlobalMax
 HOST-SUFFIX,i-lab.ac.uk,GlobalMax
 HOST-SUFFIX,i-o-u.info,GlobalMax
@@ -15427,7 +15515,10 @@ HOST-SUFFIX,itfromtheinside.com,GlobalMax
 HOST-SUFFIX,itgonglun.com,GlobalMax
 HOST-SUFFIX,ithaisex.com,GlobalMax
 HOST-SUFFIX,ithome.com.tw,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,itiger.com,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,itlearningspace-scot.ac.uk,GlobalMax
 HOST-SUFFIX,itnel.com,GlobalMax
 HOST-SUFFIX,itnow.ac.uk,GlobalMax
@@ -16178,7 +16269,10 @@ HOST-SUFFIX,keepyourcad.com,GlobalMax
 HOST-SUFFIX,keezmovies.com,GlobalMax
 HOST-SUFFIX,keiba.net,GlobalMax
 HOST-SUFFIX,keighleycollege.ac.uk,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,kemono.cr,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,kemono.party,GlobalMax
 HOST-SUFFIX,kemono.su,GlobalMax
 HOST-SUFFIX,kendal.ac.uk,GlobalMax
@@ -16468,7 +16562,10 @@ HOST-SUFFIX,l-0005.dc-msedge.net,GlobalMax
 HOST-SUFFIX,l-msedge.net,GlobalMax
 HOST-SUFFIX,la-forum.org,GlobalMax
 HOST-SUFFIX,la-mama.ru,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,la-north-205.myhuaweicloud.com,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,laban.ac.uk,GlobalMax
 HOST-SUFFIX,labiennale.org,GlobalMax
 HOST-SUFFIX,labinacell.ac.uk,GlobalMax
@@ -17154,7 +17251,10 @@ HOST-SUFFIX,londonstudiocenter.ac.uk,GlobalMax
 HOST-SUFFIX,londonstudiocentre.ac.uk,GlobalMax
 HOST-SUFFIX,lonestarnaughtygirls.com,GlobalMax
 HOST-SUFFIX,longbridge.cloud,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,longbridge.com,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,longbridge.global,GlobalMax
 HOST-SUFFIX,longbridge.hk,GlobalMax
 HOST-SUFFIX,longbridge.sg,GlobalMax
@@ -17587,10 +17687,15 @@ HOST-SUFFIX,mandiant.com,GlobalMax
 HOST-SUFFIX,manga-mill.com,GlobalMax
 HOST-SUFFIX,manga18.art,GlobalMax
 HOST-SUFFIX,mangabz.com,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,mangacopy.com,GlobalMax
 HOST-SUFFIX,mangafox.com,GlobalMax
 HOST-SUFFIX,mangafox.me,GlobalMax
 HOST-SUFFIX,mangafunb.fun,GlobalMax
+=======
+HOST-SUFFIX,mangafox.com,GlobalMax
+HOST-SUFFIX,mangafox.me,GlobalMax
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,mangahasu.se,GlobalMax
 HOST-SUFFIX,mangahentai.me,GlobalMax
 HOST-SUFFIX,mangahome.com,GlobalMax
@@ -17981,9 +18086,12 @@ HOST-SUFFIX,mdtt-tv.sbs,GlobalMax
 HOST-SUFFIX,mdx.ac.uk,GlobalMax
 HOST-SUFFIX,mdyy.de,GlobalMax
 HOST-SUFFIX,me-east-1.myhuaweicloud.com,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,me-east-205.myhuaweicloud.com,GlobalMax
 HOST-SUFFIX,me-east-208.myhuaweicloud.com,GlobalMax
 HOST-SUFFIX,me-east-209.myhuaweicloud.com,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,me-gay.com,GlobalMax
 HOST-SUFFIX,me.me,GlobalMax
 HOST-SUFFIX,meadjohnson.com,GlobalMax
@@ -18829,7 +18937,10 @@ HOST-SUFFIX,mohu.club,GlobalMax
 HOST-SUFFIX,mohu.ml,GlobalMax
 HOST-SUFFIX,mohu.rocks,GlobalMax
 HOST-SUFFIX,moidigital.ac.uk,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,moj.gov.tw,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,mojang.com,GlobalMax
 HOST-SUFFIX,mojim.com,GlobalMax
 HOST-SUFFIX,mol.ac.uk,GlobalMax
@@ -19046,7 +19157,10 @@ HOST-SUFFIX,moviesfree4u.xyz,GlobalMax
 HOST-SUFFIX,moviesneek.com,GlobalMax
 HOST-SUFFIX,movinghistory.ac.uk,GlobalMax
 HOST-SUFFIX,movingmedicine.ac.uk,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,mox.moe,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,moxing.mobi,GlobalMax
 HOST-SUFFIX,moxing.news,GlobalMax
 HOST-SUFFIX,moystoys.com,GlobalMax
@@ -19424,7 +19538,10 @@ HOST-SUFFIX,mypearsonshop.com.mx,GlobalMax
 HOST-SUFFIX,mypearsonshop.mx,GlobalMax
 HOST-SUFFIX,mypicture.info,GlobalMax
 HOST-SUFFIX,mypikpak.com,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,mypikpak.net,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,myplace.ac.uk,GlobalMax
 HOST-SUFFIX,mypop3.net,GlobalMax
 HOST-SUFFIX,mypop3.org,GlobalMax
@@ -19502,7 +19619,10 @@ HOST-SUFFIX,n8agrifood.ac.uk,GlobalMax
 HOST-SUFFIX,na-ashburn.myqcloud.com,GlobalMax
 HOST-SUFFIX,na-ashburn.tencentcos.com,GlobalMax
 HOST-SUFFIX,na-att-idns.net,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,na-east-0.myhuaweicloud.com,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,na-me.ac.uk,GlobalMax
 HOST-SUFFIX,na-siliconvalley.myqcloud.com,GlobalMax
 HOST-SUFFIX,na-siliconvalley.tencentcos.com,GlobalMax
@@ -19640,7 +19760,10 @@ HOST-SUFFIX,navisworks.com,GlobalMax
 HOST-SUFFIX,navisworks.net,GlobalMax
 HOST-SUFFIX,navy.mil,GlobalMax
 HOST-SUFFIX,naweeklytimes.com,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,naydex.net,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,nazarene.ac.uk,GlobalMax
 HOST-SUFFIX,nbabot.net,GlobalMax
 HOST-SUFFIX,nbc.co,GlobalMax
@@ -21914,7 +22037,10 @@ HOST-SUFFIX,performancescience.ac.uk,GlobalMax
 HOST-SUFFIX,periscope.tv,GlobalMax
 HOST-SUFFIX,perl.org,GlobalMax
 HOST-SUFFIX,perplexity.ai,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,perplexity.com,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,persagg.com,GlobalMax
 HOST-SUFFIX,persecutionblog.com,GlobalMax
 HOST-SUFFIX,pershore.ac.uk,GlobalMax
@@ -23981,7 +24107,10 @@ HOST-SUFFIX,rti.tw,GlobalMax
 HOST-SUFFIX,rtings.com,GlobalMax
 HOST-SUFFIX,rtycminnesota.org,GlobalMax
 HOST-SUFFIX,ru-moscow-1.myhuaweicloud.com,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,ru-northwest-201.myhuaweicloud.com,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,rua-project.ac.uk,GlobalMax
 HOST-SUFFIX,ruanyifeng.com,GlobalMax
 HOST-SUFFIX,ruby-lang.org,GlobalMax
@@ -24007,8 +24136,11 @@ HOST-SUFFIX,ruleporn.com,GlobalMax
 HOST-SUFFIX,rumah123.com,GlobalMax
 HOST-SUFFIX,rumble.com,GlobalMax
 HOST-SUFFIX,rumporn.com,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,rumt-sg.com,GlobalMax
 HOST-SUFFIX,rumt-us.com,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,run.app,GlobalMax
 HOST-SUFFIX,runbtx.com,GlobalMax
 HOST-SUFFIX,rundf665.cyou,GlobalMax
@@ -24079,8 +24211,11 @@ HOST-SUFFIX,sa-saopaulo.myqcloud.com,GlobalMax
 HOST-SUFFIX,sa-saopaulo.tencentcos.com,GlobalMax
 HOST-SUFFIX,sa.com,GlobalMax
 HOST-SUFFIX,sa.hao123.com,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,saasexch.cc,GlobalMax
 HOST-SUFFIX,saasexch.co,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,saasexch.com,GlobalMax
 HOST-SUFFIX,saasexch.io,GlobalMax
 HOST-SUFFIX,saboom.com,GlobalMax
@@ -24980,7 +25115,10 @@ HOST-SUFFIX,shootershill.ac.uk,GlobalMax
 HOST-SUFFIX,shop-headphones.net,GlobalMax
 HOST-SUFFIX,shop.app,GlobalMax
 HOST-SUFFIX,shop2000.com.tw,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,shopalienware.com,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,shopbeatsdre.com,GlobalMax
 HOST-SUFFIX,shopbmwmotorcycles.com,GlobalMax
 HOST-SUFFIX,shopbmwusa.com,GlobalMax
@@ -25394,7 +25532,10 @@ HOST-SUFFIX,sneakerskick.com,GlobalMax
 HOST-SUFFIX,sneakme.net,GlobalMax
 HOST-SUFFIX,snjulebu.com,GlobalMax
 HOST-SUFFIX,snk-corp.co.jp,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,snk-corp.info,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,snkplaymore.info,GlobalMax
 HOST-SUFFIX,snow.me,GlobalMax
 HOST-SUFFIX,snowcorp.com,GlobalMax
@@ -25492,7 +25633,10 @@ HOST-SUFFIX,solihullsfc.ac.uk,GlobalMax
 HOST-SUFFIX,solostudioksale.com,GlobalMax
 HOST-SUFFIX,solsfc.ac.uk,GlobalMax
 HOST-SUFFIX,solutions-worcestershire.ac.uk,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,solutionstation.com,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,solv.finance,GlobalMax
 HOST-SUFFIX,solveforx.com,GlobalMax
 HOST-SUFFIX,somanylolies.com,GlobalMax
@@ -25630,7 +25774,10 @@ HOST-SUFFIX,soul-plus.net,GlobalMax
 HOST-SUFFIX,soulcaliburhentai.net,GlobalMax
 HOST-SUFFIX,soumo.info,GlobalMax
 HOST-SUFFIX,sound-heritage.ac.uk,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,soundcloud.cloud,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,soundcloud.com,GlobalMax
 HOST-SUFFIX,soundofhope.eu,GlobalMax
 HOST-SUFFIX,soundofhope.kr,GlobalMax
@@ -26257,7 +26404,10 @@ HOST-SUFFIX,studentshows.ac.uk,GlobalMax
 HOST-SUFFIX,studentvoteregistration.ac.uk,GlobalMax
 HOST-SUFFIX,studentvoterregistration.ac.uk,GlobalMax
 HOST-SUFFIX,studiobeatsbydrdre.com,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,studiodell.com,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,studiofow.com,GlobalMax
 HOST-SUFFIX,studiolico.com,GlobalMax
 HOST-SUFFIX,studioluxus.com,GlobalMax
@@ -27865,8 +28015,11 @@ HOST-SUFFIX,tubevintageporn.com,GlobalMax
 HOST-SUFFIX,tubewolf.com,GlobalMax
 HOST-SUFFIX,tubexclips.com,GlobalMax
 HOST-SUFFIX,tubi.io,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,tubi.tv,GlobalMax
 HOST-SUFFIX,tubi.video,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,tubinge.com,GlobalMax
 HOST-SUFFIX,tubitv.com,GlobalMax
 HOST-SUFFIX,tubous.com,GlobalMax
@@ -28231,7 +28384,10 @@ HOST-SUFFIX,udn.com.tw,GlobalMax
 HOST-SUFFIX,udnbkk.com,GlobalMax
 HOST-SUFFIX,udndata.com,GlobalMax
 HOST-SUFFIX,udnfunlife.com,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,udomain.hk,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,udtrucksmeena.com,GlobalMax
 HOST-SUFFIX,uea.ac.uk,GlobalMax
 HOST-SUFFIX,ueberamazon.de,GlobalMax
@@ -28543,7 +28699,10 @@ HOST-SUFFIX,urlborg.com,GlobalMax
 HOST-SUFFIX,urlgalleries.net,GlobalMax
 HOST-SUFFIX,urlparser.com,GlobalMax
 HOST-SUFFIX,urukawa.com,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,us-east-1.myhuaweicloud.com,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,us.to,GlobalMax
 HOST-SUFFIX,us.weibo.com,GlobalMax
 HOST-SUFFIX,usa-beatsbydreheadphonesonsale.net,GlobalMax
@@ -28750,7 +28909,10 @@ HOST-SUFFIX,vaultproject.io,GlobalMax
 HOST-SUFFIX,vbejeyv.shop,GlobalMax
 HOST-SUFFIX,vbstatic.co,GlobalMax
 HOST-SUFFIX,vcanedge.com,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,vce.com,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,vcf-online.org,GlobalMax
 HOST-SUFFIX,vcfbuilder.org,GlobalMax
 HOST-SUFFIX,vcloudair.net,GlobalMax
@@ -29369,7 +29531,10 @@ HOST-SUFFIX,vodafone.it,GlobalMax
 HOST-SUFFIX,voicettank.org,GlobalMax
 HOST-SUFFIX,voila.ac.uk,GlobalMax
 HOST-SUFFIX,vokevr.com,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,vol.moe,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,volstudy.ac.uk,GlobalMax
 HOST-SUFFIX,volvo-truck.nl,GlobalMax
 HOST-SUFFIX,volvo.ca,GlobalMax
@@ -31209,7 +31374,10 @@ HOST-SUFFIX,yandex-images.clstorage.net,GlobalMax
 HOST-SUFFIX,yandex.aero,GlobalMax
 HOST-SUFFIX,yandex.az,GlobalMax
 HOST-SUFFIX,yandex.by,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,yandex.cloud,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,yandex.co.il,GlobalMax
 HOST-SUFFIX,yandex.com,GlobalMax
 HOST-SUFFIX,yandex.com.am,GlobalMax
@@ -31294,7 +31462,10 @@ HOST-SUFFIX,yeyeclub.com,GlobalMax
 HOST-SUFFIX,yeyuehuachao11.com,GlobalMax
 HOST-SUFFIX,yeyuehuachao12.com,GlobalMax
 HOST-SUFFIX,yeyuehuachao13.com,GlobalMax
+<<<<<<< HEAD
 HOST-SUFFIX,yfsp.tv,GlobalMax
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,yft-mv.sbs,GlobalMax
 HOST-SUFFIX,ygto.com,GlobalMax
 HOST-SUFFIX,ygugu4.com,GlobalMax

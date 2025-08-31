@@ -2,8 +2,13 @@ name: Build
 
 on:
   workflow_dispatch:
+<<<<<<< HEAD
   # schedule:
   #   - cron: "0 5 * * 3" # UTC+8 周三 13:00
+=======
+  schedule:
+    - cron: "0 5 * * 3" # UTC+8 周三 13:00
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 
 jobs:
   Build:

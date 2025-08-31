@@ -10,7 +10,11 @@ jobs:
     runs-on: ubuntu-latest
     env:
       TZ: "Asia/Shanghai"
+<<<<<<< HEAD
       SING_BOX_VERSION: 1.12.3
+=======
+      SING_BOX_VERSION: 1.11.15
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
     steps: 
       - name: Checkout Repository
         uses: actions/checkout@v5.0.0
@@ -78,7 +82,11 @@ jobs:
                   print "  - " arr[2];
               } else if ($0 ~ /^IP-CIDR6,/) {
                   split($0, arr, ",");
+<<<<<<< HEAD
                   if (!cidr6++) print "ip_cidr6_set:";
+=======
+                  if (!ip_cidr6++) print "ip_cidr6_set:";
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
                   print "  - " arr[2];
               } else if ($0 ~ /^IP-ASN,/) {
                   split($0, arr, ",");
@@ -160,7 +168,11 @@ jobs:
             file_names="${file%.json}"
             tmp=$(mktemp)
             echo '{' > "$tmp"
+<<<<<<< HEAD
             echo '  "version": 3,' >> "$tmp"
+=======
+            echo '  "version": 2,' >> "$tmp"
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
             echo '  "rules": [' >> "$tmp"
             first_entry=true
             add_rule_block() {

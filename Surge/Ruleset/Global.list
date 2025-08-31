@@ -1,5 +1,9 @@
 # 规则名称: Global
+<<<<<<< HEAD
 # 规则统计: 7312
+=======
+# 规则统计: 7305
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 
 DOMAIN,cloud.oracle.com
 DOMAIN,steambroadcast.akamaized.net
@@ -1357,7 +1361,10 @@ DOMAIN-SUFFIX,costco.com
 DOMAIN-SUFFIX,cotweet.com
 DOMAIN-SUFFIX,counter.social
 DOMAIN-SUFFIX,coursehero.com
+<<<<<<< HEAD
 DOMAIN-SUFFIX,covenantswatch.org.tw
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 DOMAIN-SUFFIX,coze.com
 DOMAIN-SUFFIX,cpj.org
 DOMAIN-SUFFIX,cpu-monkey.com
@@ -1651,7 +1658,10 @@ DOMAIN-SUFFIX,dowei.org
 DOMAIN-SUFFIX,dowjones.com
 DOMAIN-SUFFIX,download.aircrack-ng.org
 DOMAIN-SUFFIX,download.cnet.com
+<<<<<<< HEAD
 DOMAIN-SUFFIX,dpdns.org
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 DOMAIN-SUFFIX,dphk.org
 DOMAIN-SUFFIX,dpool.top
 DOMAIN-SUFFIX,dpp.org.tw
@@ -2237,8 +2247,11 @@ DOMAIN-SUFFIX,ftvnews.com.tw
 DOMAIN-SUFFIX,ftx.com
 DOMAIN-SUFFIX,fucd.com
 DOMAIN-SUFFIX,fuchsia.dev
+<<<<<<< HEAD
 DOMAIN-SUFFIX,fuckccp.com
 DOMAIN-SUFFIX,fuckccp.xyz
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 DOMAIN-SUFFIX,fuckcnnic.net
 DOMAIN-SUFFIX,fuckgfw.org
 DOMAIN-SUFFIX,fuckgfw233.org
@@ -3353,7 +3366,10 @@ DOMAIN-SUFFIX,itemdb.com
 DOMAIN-SUFFIX,itemfix.com
 DOMAIN-SUFFIX,ithelp.ithome.com.tw
 DOMAIN-SUFFIX,ithome.com.tw
+<<<<<<< HEAD
 DOMAIN-SUFFIX,itiger.com
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 DOMAIN-SUFFIX,itsaol.com
 DOMAIN-SUFFIX,itshidden.com
 DOMAIN-SUFFIX,itsky.it
@@ -4041,7 +4057,10 @@ DOMAIN-SUFFIX,mog.com
 DOMAIN-SUFFIX,mohu.club
 DOMAIN-SUFFIX,mohu.ml
 DOMAIN-SUFFIX,mohu.rocks
+<<<<<<< HEAD
 DOMAIN-SUFFIX,moj.gov.tw
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 DOMAIN-SUFFIX,mojim.com
 DOMAIN-SUFFIX,mol.gov.tw
 DOMAIN-SUFFIX,molihua.org
@@ -6316,7 +6335,10 @@ DOMAIN-SUFFIX,udn.com
 DOMAIN-SUFFIX,udn.com.tw
 DOMAIN-SUFFIX,udnbkk.com
 DOMAIN-SUFFIX,udndata.com
+<<<<<<< HEAD
 DOMAIN-SUFFIX,udomain.hk
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 DOMAIN-SUFFIX,uforadio.com.tw
 DOMAIN-SUFFIX,ufreevpn.com
 DOMAIN-SUFFIX,ugo.com

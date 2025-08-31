@@ -1,5 +1,9 @@
 # 规则名称: Global
+<<<<<<< HEAD
 # 规则统计: 7312
+=======
+# 规则统计: 7305
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 
 no_resolve: true
 domain_set:
@@ -1360,7 +1364,10 @@ domain_suffix_set:
   - cotweet.com
   - counter.social
   - coursehero.com
+<<<<<<< HEAD
   - covenantswatch.org.tw
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - coze.com
   - cpj.org
   - cpu-monkey.com
@@ -1654,7 +1661,10 @@ domain_suffix_set:
   - dowjones.com
   - download.aircrack-ng.org
   - download.cnet.com
+<<<<<<< HEAD
   - dpdns.org
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - dphk.org
   - dpool.top
   - dpp.org.tw
@@ -2240,8 +2250,11 @@ domain_suffix_set:
   - ftx.com
   - fucd.com
   - fuchsia.dev
+<<<<<<< HEAD
   - fuckccp.com
   - fuckccp.xyz
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - fuckcnnic.net
   - fuckgfw.org
   - fuckgfw233.org
@@ -3356,7 +3369,10 @@ domain_suffix_set:
   - itemfix.com
   - ithelp.ithome.com.tw
   - ithome.com.tw
+<<<<<<< HEAD
   - itiger.com
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - itsaol.com
   - itshidden.com
   - itsky.it
@@ -4044,7 +4060,10 @@ domain_suffix_set:
   - mohu.club
   - mohu.ml
   - mohu.rocks
+<<<<<<< HEAD
   - moj.gov.tw
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - mojim.com
   - mol.gov.tw
   - molihua.org
@@ -6319,7 +6338,10 @@ domain_suffix_set:
   - udn.com.tw
   - udnbkk.com
   - udndata.com
+<<<<<<< HEAD
   - udomain.hk
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
   - uforadio.com.tw
   - ufreevpn.com
   - ugo.com

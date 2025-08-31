@@ -1,5 +1,9 @@
 # 规则名称: GreatFireWall
+<<<<<<< HEAD
 # 规则统计: 5898
+=======
+# 规则统计: 5890
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 
 HOST-SUFFIX,000webhost.com,GreatFireWall
 HOST-SUFFIX,030buy.com,GreatFireWall
@@ -1134,7 +1138,10 @@ HOST-SUFFIX,costco.com,GreatFireWall
 HOST-SUFFIX,cotweet.com,GreatFireWall
 HOST-SUFFIX,counter.social,GreatFireWall
 HOST-SUFFIX,coursehero.com,GreatFireWall
+<<<<<<< HEAD
 HOST-SUFFIX,covenantswatch.org.tw,GreatFireWall
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,coze.com,GreatFireWall
 HOST-SUFFIX,cpj.org,GreatFireWall
 HOST-SUFFIX,cpu-monkey.com,GreatFireWall
@@ -1373,7 +1380,10 @@ HOST-SUFFIX,dougscripts.com,GreatFireWall
 HOST-SUFFIX,doujincafe.com,GreatFireWall
 HOST-SUFFIX,download.aircrack-ng.org,GreatFireWall
 HOST-SUFFIX,download.cnet.com,GreatFireWall
+<<<<<<< HEAD
 HOST-SUFFIX,dpdns.org,GreatFireWall
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,dphk.org,GreatFireWall
 HOST-SUFFIX,dpool.top,GreatFireWall
 HOST-SUFFIX,dpp.org.tw,GreatFireWall
@@ -1684,7 +1694,10 @@ HOST-SUFFIX,fdc64.org,GreatFireWall
 HOST-SUFFIX,fdc89.jp,GreatFireWall
 HOST-SUFFIX,feedburner.com,GreatFireWall
 HOST-SUFFIX,feeder.co,GreatFireWall
+<<<<<<< HEAD
 HOST-SUFFIX,feedly.com,GreatFireWall
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,feeds.fileforum.com,GreatFireWall
 HOST-SUFFIX,feedx.net,GreatFireWall
 HOST-SUFFIX,feelssh.com,GreatFireWall
@@ -1857,8 +1870,11 @@ HOST-SUFFIX,ftvnews.com.tw,GreatFireWall
 HOST-SUFFIX,ftx.com,GreatFireWall
 HOST-SUFFIX,fucd.com,GreatFireWall
 HOST-SUFFIX,fuchsia.dev,GreatFireWall
+<<<<<<< HEAD
 HOST-SUFFIX,fuckccp.com,GreatFireWall
 HOST-SUFFIX,fuckccp.xyz,GreatFireWall
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,fuckgfw.org,GreatFireWall
 HOST-SUFFIX,fulione.com,GreatFireWall
 HOST-SUFFIX,fullerconsideration.com,GreatFireWall
@@ -2756,7 +2772,10 @@ HOST-SUFFIX,itch.io,GreatFireWall
 HOST-SUFFIX,itemdb.com,GreatFireWall
 HOST-SUFFIX,itemfix.com,GreatFireWall
 HOST-SUFFIX,ithelp.ithome.com.tw,GreatFireWall
+<<<<<<< HEAD
 HOST-SUFFIX,itiger.com,GreatFireWall
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,itsaol.com,GreatFireWall
 HOST-SUFFIX,itshidden.com,GreatFireWall
 HOST-SUFFIX,itsky.it,GreatFireWall
@@ -3315,7 +3334,10 @@ HOST-SUFFIX,mofos.com,GreatFireWall
 HOST-SUFFIX,mog.com,GreatFireWall
 HOST-SUFFIX,mohu.club,GreatFireWall
 HOST-SUFFIX,mohu.rocks,GreatFireWall
+<<<<<<< HEAD
 HOST-SUFFIX,moj.gov.tw,GreatFireWall
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,mojim.com,GreatFireWall
 HOST-SUFFIX,mol.gov.tw,GreatFireWall
 HOST-SUFFIX,molihua.org,GreatFireWall
@@ -5158,7 +5180,10 @@ HOST-SUFFIX,uderzo.it,GreatFireWall
 HOST-SUFFIX,udn.com,GreatFireWall
 HOST-SUFFIX,udn.com.tw,GreatFireWall
 HOST-SUFFIX,udnbkk.com,GreatFireWall
+<<<<<<< HEAD
 HOST-SUFFIX,udomain.hk,GreatFireWall
+=======
+>>>>>>> 99fd9b6 (2025-08-27 13:12:10)
 HOST-SUFFIX,uforadio.com.tw,GreatFireWall
 HOST-SUFFIX,ufreevpn.com,GreatFireWall
 HOST-SUFFIX,ugo.com,GreatFireWall
